@@ -1,0 +1,96 @@
+[Background]
+Color=57, 24, 19
+
+[BackgroundFaint]
+Color=57, 24, 19
+
+[BackgroundIntense]
+Color=96, 39, 31
+
+[Color0]
+Color=57, 24, 19
+
+[Color0Faint]
+Color=57, 24, 19
+
+[Color0Intense]
+Color=96, 39, 31
+
+[Color1]
+Color=179, 77, 77
+
+[Color1Faint]
+Color=179, 77, 77
+
+[Color1Intense]
+Color=201, 130, 130
+
+[Color2]
+Color=179, 102, 77
+
+[Color2Faint]
+Color=179, 102, 77
+
+[Color2Intense]
+Color=209, 163, 148
+
+[Color3]
+Color=129, 129, 152
+
+[Color3Faint]
+Color=129, 129, 152
+
+[Color3Intense]
+Color=171, 171, 186
+
+[Color4]
+Color=159, 122, 122
+
+[Color4Faint]
+Color=159, 122, 122
+
+[Color4Intense]
+Color=191, 166, 166
+
+[Color5]
+Color=209, 152, 71
+
+[Color5Faint]
+Color=209, 152, 71
+
+[Color5Intense]
+Color=224, 186, 133
+
+[Color6]
+Color=135, 146, 137
+
+[Color6Faint]
+Color=135, 146, 137
+
+[Color6Intense]
+Color=175, 182, 176
+
+[Color7]
+Color=185, 185, 185
+
+[Color7Faint]
+Color=185, 185, 185
+
+[Color7Intense]
+Color=204, 204, 204
+
+[Foreground]
+Color=185, 185, 185
+
+[ForegroundFaint]
+Color=185, 185, 185
+
+[ForegroundIntense]
+Color=204, 204, 204
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=adeptus-mechanicus-dark
+Opacity=1
+Wallpaper=

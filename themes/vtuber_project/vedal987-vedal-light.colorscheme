@@ -1,0 +1,96 @@
+[Background]
+Color=169, 217, 166
+
+[BackgroundFaint]
+Color=169, 217, 166
+
+[BackgroundIntense]
+Color=100, 186, 94
+
+[Color0]
+Color=169, 217, 166
+
+[Color0Faint]
+Color=169, 217, 166
+
+[Color0Intense]
+Color=100, 186, 94
+
+[Color1]
+Color=172, 57, 132
+
+[Color1Faint]
+Color=172, 57, 132
+
+[Color1Intense]
+Color=204, 102, 168
+
+[Color2]
+Color=155, 75, 155
+
+[Color2Faint]
+Color=155, 75, 155
+
+[Color2Intense]
+Color=189, 117, 189
+
+[Color3]
+Color=68, 110, 162
+
+[Color3Faint]
+Color=68, 110, 162
+
+[Color3Intense]
+Color=111, 149, 195
+
+[Color4]
+Color=57, 143, 172
+
+[Color4Faint]
+Color=57, 143, 172
+
+[Color4Intense]
+Color=102, 179, 204
+
+[Color5]
+Color=115, 75, 155
+
+[Color5Faint]
+Color=115, 75, 155
+
+[Color5Intense]
+Color=153, 117, 189
+
+[Color6]
+Color=57, 172, 143
+
+[Color6Faint]
+Color=57, 172, 143
+
+[Color6Intense]
+Color=102, 204, 179
+
+[Color7]
+Color=40, 62, 44
+
+[Color7Faint]
+Color=40, 62, 44
+
+[Color7Intense]
+Color=20, 31, 22
+
+[Foreground]
+Color=40, 62, 44
+
+[ForegroundFaint]
+Color=40, 62, 44
+
+[ForegroundIntense]
+Color=20, 31, 22
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=vedal987-vedal-light
+Opacity=1
+Wallpaper=

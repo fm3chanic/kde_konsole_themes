@@ -1,0 +1,96 @@
+[Background]
+Color=74, 62, 54
+
+[BackgroundFaint]
+Color=74, 62, 54
+
+[BackgroundIntense]
+Color=118, 100, 86
+
+[Color0]
+Color=74, 62, 54
+
+[Color0Faint]
+Color=74, 62, 54
+
+[Color0Intense]
+Color=118, 100, 86
+
+[Color1]
+Color=172, 83, 83
+
+[Color1Faint]
+Color=172, 83, 83
+
+[Color1Intense]
+Color=205, 152, 152
+
+[Color2]
+Color=172, 83, 128
+
+[Color2Faint]
+Color=172, 83, 128
+
+[Color2Intense]
+Color=205, 152, 179
+
+[Color3]
+Color=83, 172, 150
+
+[Color3Faint]
+Color=83, 172, 150
+
+[Color3Intense]
+Color=152, 205, 192
+
+[Color4]
+Color=153, 179, 77
+
+[Color4Faint]
+Color=153, 179, 77
+
+[Color4Intense]
+Color=184, 201, 130
+
+[Color5]
+Color=179, 128, 77
+
+[Color5Faint]
+Color=179, 128, 77
+
+[Color5Intense]
+Color=209, 179, 148
+
+[Color6]
+Color=77, 179, 102
+
+[Color6Faint]
+Color=77, 179, 102
+
+[Color6Intense]
+Color=148, 209, 163
+
+[Color7]
+Color=212, 203, 196
+
+[Color7Faint]
+Color=212, 203, 196
+
+[Color7Intense]
+Color=234, 229, 225
+
+[Foreground]
+Color=212, 203, 196
+
+[ForegroundFaint]
+Color=212, 203, 196
+
+[ForegroundIntense]
+Color=234, 229, 225
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=aztec-jungle
+Opacity=1
+Wallpaper=

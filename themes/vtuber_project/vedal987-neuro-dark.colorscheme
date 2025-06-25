@@ -1,0 +1,96 @@
+[Background]
+Color=61, 41, 41
+
+[BackgroundFaint]
+Color=61, 41, 41
+
+[BackgroundIntense]
+Color=106, 72, 72
+
+[Color0]
+Color=61, 41, 41
+
+[Color0Faint]
+Color=61, 41, 41
+
+[Color0Intense]
+Color=106, 72, 72
+
+[Color1]
+Color=198, 83, 113
+
+[Color1Faint]
+Color=198, 83, 113
+
+[Color1Intense]
+Color=217, 140, 161
+
+[Color2]
+Color=163, 102, 204
+
+[Color2Faint]
+Color=163, 102, 204
+
+[Color2Intense]
+Color=198, 159, 223
+
+[Color3]
+Color=102, 124, 204
+
+[Color3Faint]
+Color=102, 124, 204
+
+[Color3Intense]
+Color=159, 173, 223
+
+[Color4]
+Color=91, 190, 186
+
+[Color4Faint]
+Color=91, 190, 186
+
+[Color4Intense]
+Color=146, 211, 209
+
+[Color5]
+Color=100, 134, 180
+
+[Color5Faint]
+Color=100, 134, 180
+
+[Color5Intense]
+Color=152, 174, 205
+
+[Color6]
+Color=102, 204, 173
+
+[Color6Faint]
+Color=102, 204, 173
+
+[Color6Intense]
+Color=159, 223, 204
+
+[Color7]
+Color=246, 218, 188
+
+[Color7Faint]
+Color=246, 218, 188
+
+[Color7Intense]
+Color=249, 230, 210
+
+[Foreground]
+Color=246, 218, 188
+
+[ForegroundFaint]
+Color=246, 218, 188
+
+[ForegroundIntense]
+Color=249, 230, 210
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=vedal987-neuro-dark
+Opacity=1
+Wallpaper=

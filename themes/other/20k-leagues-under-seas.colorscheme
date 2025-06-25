@@ -1,0 +1,96 @@
+[Background]
+Color=30, 47, 47
+
+[BackgroundFaint]
+Color=30, 47, 47
+
+[BackgroundIntense]
+Color=60, 93, 93
+
+[Color0]
+Color=30, 47, 47
+
+[Color0Faint]
+Color=30, 47, 47
+
+[Color0Intense]
+Color=60, 93, 93
+
+[Color1]
+Color=243, 190, 243
+
+[Color1Faint]
+Color=243, 190, 243
+
+[Color1Intense]
+Color=235, 147, 235
+
+[Color2]
+Color=243, 190, 190
+
+[Color2Faint]
+Color=243, 190, 190
+
+[Color2Intense]
+Color=235, 147, 147
+
+[Color3]
+Color=168, 222, 240
+
+[Color3Faint]
+Color=168, 222, 240
+
+[Color3Intense]
+Color=81, 189, 225
+
+[Color4]
+Color=190, 190, 243
+
+[Color4Faint]
+Color=190, 190, 243
+
+[Color4Intense]
+Color=147, 147, 235
+
+[Color5]
+Color=193, 215, 215
+
+[Color5Faint]
+Color=193, 215, 215
+
+[Color5Intense]
+Color=146, 185, 185
+
+[Color6]
+Color=190, 244, 208
+
+[Color6Faint]
+Color=190, 244, 208
+
+[Color6Intense]
+Color=102, 229, 145
+
+[Color7]
+Color=242, 217, 140
+
+[Color7Faint]
+Color=242, 217, 140
+
+[Color7Intense]
+Color=251, 234, 182
+
+[Foreground]
+Color=242, 217, 140
+
+[ForegroundFaint]
+Color=242, 217, 140
+
+[ForegroundIntense]
+Color=251, 234, 182
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=20k-leagues-under-seas
+Opacity=1
+Wallpaper=

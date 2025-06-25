@@ -1,0 +1,96 @@
+[Background]
+Color=33, 44, 33
+
+[BackgroundFaint]
+Color=33, 44, 33
+
+[BackgroundIntense]
+Color=66, 87, 66
+
+[Color0]
+Color=33, 44, 33
+
+[Color0Faint]
+Color=33, 44, 33
+
+[Color0Intense]
+Color=66, 87, 66
+
+[Color1]
+Color=244, 211, 113
+
+[Color1Faint]
+Color=244, 211, 113
+
+[Color1Intense]
+Color=248, 226, 160
+
+[Color2]
+Color=244, 244, 113
+
+[Color2Faint]
+Color=244, 244, 113
+
+[Color2Intense]
+Color=248, 248, 160
+
+[Color3]
+Color=211, 244, 113
+
+[Color3Faint]
+Color=211, 244, 113
+
+[Color3Intense]
+Color=226, 248, 160
+
+[Color4]
+Color=113, 244, 146
+
+[Color4Faint]
+Color=113, 244, 146
+
+[Color4Intense]
+Color=160, 248, 182
+
+[Color5]
+Color=113, 244, 211
+
+[Color5Faint]
+Color=113, 244, 211
+
+[Color5Intense]
+Color=160, 248, 226
+
+[Color6]
+Color=146, 244, 113
+
+[Color6Faint]
+Color=146, 244, 113
+
+[Color6Intense]
+Color=182, 248, 160
+
+[Color7]
+Color=168, 189, 168
+
+[Color7Faint]
+Color=168, 189, 168
+
+[Color7Intense]
+Color=197, 211, 197
+
+[Foreground]
+Color=168, 189, 168
+
+[ForegroundFaint]
+Color=168, 189, 168
+
+[ForegroundIntense]
+Color=197, 211, 197
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=acid-cloud
+Opacity=1
+Wallpaper=

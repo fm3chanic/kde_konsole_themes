@@ -1,0 +1,96 @@
+[Background]
+Color=215, 203, 231
+
+[BackgroundFaint]
+Color=215, 203, 231
+
+[BackgroundIntense]
+Color=176, 151, 206
+
+[Color0]
+Color=215, 203, 231
+
+[Color0Faint]
+Color=215, 203, 231
+
+[Color0Intense]
+Color=176, 151, 206
+
+[Color1]
+Color=198, 83, 83
+
+[Color1Faint]
+Color=198, 83, 83
+
+[Color1Intense]
+Color=217, 140, 140
+
+[Color2]
+Color=198, 83, 125
+
+[Color2Faint]
+Color=198, 83, 125
+
+[Color2Intense]
+Color=217, 140, 168
+
+[Color3]
+Color=83, 83, 198
+
+[Color3Faint]
+Color=83, 83, 198
+
+[Color3Intense]
+Color=140, 140, 217
+
+[Color4]
+Color=150, 83, 198
+
+[Color4Faint]
+Color=150, 83, 198
+
+[Color4Intense]
+Color=185, 140, 217
+
+[Color5]
+Color=198, 83, 152
+
+[Color5Faint]
+Color=198, 83, 152
+
+[Color5Intense]
+Color=217, 140, 186
+
+[Color6]
+Color=83, 138, 198
+
+[Color6Faint]
+Color=83, 138, 198
+
+[Color6Intense]
+Color=140, 177, 217
+
+[Color7]
+Color=89, 38, 60
+
+[Color7Faint]
+Color=89, 38, 60
+
+[Color7Intense]
+Color=54, 23, 36
+
+[Foreground]
+Color=89, 38, 60
+
+[ForegroundFaint]
+Color=89, 38, 60
+
+[ForegroundIntense]
+Color=54, 23, 36
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=vedal987-evil-light
+Opacity=1
+Wallpaper=
