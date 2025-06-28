@@ -1,0 +1,96 @@
+[Background]
+Color=41, 41, 61
+
+[BackgroundFaint]
+Color=41, 41, 61
+
+[BackgroundIntense]
+Color=72, 72, 106
+
+[Color0]
+Color=41, 41, 61
+
+[Color0Faint]
+Color=41, 41, 61
+
+[Color0Intense]
+Color=72, 72, 106
+
+[Color1]
+Color=240, 158, 117
+
+[Color1Faint]
+Color=240, 158, 117
+
+[Color1Intense]
+Color=247, 207, 186
+
+[Color2]
+Color=240, 199, 117
+
+[Color2Faint]
+Color=240, 199, 117
+
+[Color2Intense]
+Color=245, 218, 163
+
+[Color3]
+Color=240, 240, 117
+
+[Color3Faint]
+Color=240, 240, 117
+
+[Color3Intense]
+Color=245, 245, 163
+
+[Color4]
+Color=102, 102, 255
+
+[Color4Faint]
+Color=102, 102, 255
+
+[Color4Intense]
+Color=179, 179, 255
+
+[Color5]
+Color=102, 179, 255
+
+[Color5Faint]
+Color=102, 179, 255
+
+[Color5Intense]
+Color=153, 204, 255
+
+[Color6]
+Color=147, 236, 236
+
+[Color6Faint]
+Color=147, 236, 236
+
+[Color6Intense]
+Color=194, 240, 240
+
+[Color7]
+Color=228, 204, 154
+
+[Color7Faint]
+Color=228, 204, 154
+
+[Color7Intense]
+Color=239, 224, 194
+
+[Foreground]
+Color=228, 204, 154
+
+[ForegroundFaint]
+Color=228, 204, 154
+
+[ForegroundIntense]
+Color=239, 224, 194
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=nautical
+Opacity=1
+Wallpaper=
