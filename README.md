@@ -5,8 +5,8 @@ Konsole is the main terminal emulator of the popular KDE desktop environment for
 
 Themes which have been created during my project of color theming Vtubers are in the folder "vtuber_project". The folder "other" contains all color themes which where created outside of the project.
 
-You can find [HTML reference sheets](https://github.com/fm3chanic/color_schemes) for all color themes [here](https://github.com/fm3chanic/color_schemes).<br>
-You can find [further information](https://github.com/fm3chanic/vtuber_project) regarding the Vtuber project [here](https://github.com/fm3chanic/vtuber_project).
+**[HTML Reference Sheets & Galery Non-Project Themes](https://github.com/fm3chanic/color_schemes)**<br>
+**[Vtuber Project | Information & Galery](https://github.com/fm3chanic/vtuber_project)**
 
 > [!IMPORTANT]
 > Please note that all color themes have been originally created for Notepad++, which has the tendency to show colors lighter as they are in other applications. Therefore it might occur that the color theme is a bit on the darker side.
