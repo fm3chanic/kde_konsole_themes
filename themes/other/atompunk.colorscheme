@@ -1,0 +1,96 @@
+[Background]
+Color=64, 60, 68
+
+[BackgroundFaint]
+Color=64, 60, 68
+
+[BackgroundIntense]
+Color=103, 96, 108
+
+[Color0]
+Color=64, 60, 68
+
+[Color0Faint]
+Color=64, 60, 68
+
+[Color0Intense]
+Color=103, 96, 108
+
+[Color1]
+Color=102, 153, 204
+
+[Color1Faint]
+Color=102, 153, 204
+
+[Color1Intense]
+Color=140, 179, 217
+
+[Color2]
+Color=102, 204, 153
+
+[Color2Faint]
+Color=102, 204, 153
+
+[Color2Intense]
+Color=140, 217, 179
+
+[Color3]
+Color=204, 102, 102
+
+[Color3Faint]
+Color=204, 102, 102
+
+[Color3Intense]
+Color=217, 140, 140
+
+[Color4]
+Color=102, 179, 204
+
+[Color4Faint]
+Color=102, 179, 204
+
+[Color4Intense]
+Color=140, 198, 217
+
+[Color5]
+Color=102, 204, 185
+
+[Color5Faint]
+Color=102, 204, 185
+
+[Color5Intense]
+Color=159, 223, 211
+
+[Color6]
+Color=204, 102, 127
+
+[Color6Faint]
+Color=204, 102, 127
+
+[Color6Intense]
+Color=217, 140, 159
+
+[Color7]
+Color=205, 201, 207
+
+[Color7Faint]
+Color=205, 201, 207
+
+[Color7Intense]
+Color=230, 228, 231
+
+[Foreground]
+Color=205, 201, 207
+
+[ForegroundFaint]
+Color=205, 201, 207
+
+[ForegroundIntense]
+Color=230, 228, 231
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=atompunk
+Opacity=1
+Wallpaper=
