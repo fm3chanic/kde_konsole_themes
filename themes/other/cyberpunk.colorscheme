@@ -1,0 +1,96 @@
+[Background]
+Color=8, 28, 69
+
+[BackgroundFaint]
+Color=8, 28, 69
+
+[BackgroundIntense]
+Color=136, 17, 136
+
+[Color0]
+Color=8, 28, 69
+
+[Color0Faint]
+Color=8, 28, 69
+
+[Color0Intense]
+Color=136, 17, 136
+
+[Color1]
+Color=173, 51, 255
+
+[Color1Faint]
+Color=173, 51, 255
+
+[Color1Intense]
+Color=194, 102, 255
+
+[Color2]
+Color=255, 51, 255
+
+[Color2Faint]
+Color=255, 51, 255
+
+[Color2Intense]
+Color=255, 102, 255
+
+[Color3]
+Color=51, 51, 255
+
+[Color3Faint]
+Color=51, 51, 255
+
+[Color3Intense]
+Color=102, 102, 255
+
+[Color4]
+Color=51, 204, 255
+
+[Color4Faint]
+Color=51, 204, 255
+
+[Color4Intense]
+Color=102, 217, 255
+
+[Color5]
+Color=255, 51, 153
+
+[Color5Faint]
+Color=255, 51, 153
+
+[Color5Intense]
+Color=255, 102, 179
+
+[Color6]
+Color=51, 255, 255
+
+[Color6Faint]
+Color=51, 255, 255
+
+[Color6Intense]
+Color=102, 255, 255
+
+[Color7]
+Color=238, 119, 238
+
+[Color7Faint]
+Color=238, 119, 238
+
+[Color7Intense]
+Color=244, 164, 244
+
+[Foreground]
+Color=238, 119, 238
+
+[ForegroundFaint]
+Color=238, 119, 238
+
+[ForegroundIntense]
+Color=244, 164, 244
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=cyberpunk
+Opacity=1
+Wallpaper=
