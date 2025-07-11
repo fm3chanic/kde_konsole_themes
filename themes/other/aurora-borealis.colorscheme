@@ -1,0 +1,96 @@
+[Background]
+Color=29, 48, 48
+
+[BackgroundFaint]
+Color=29, 48, 48
+
+[BackgroundIntense]
+Color=50, 103, 103
+
+[Color0]
+Color=29, 48, 48
+
+[Color0Faint]
+Color=29, 48, 48
+
+[Color0Intense]
+Color=50, 103, 103
+
+[Color1]
+Color=90, 140, 242
+
+[Color1Faint]
+Color=90, 140, 242
+
+[Color1Intense]
+Color=161, 190, 247
+
+[Color2]
+Color=191, 242, 90
+
+[Color2Faint]
+Color=191, 242, 90
+
+[Color2Intense]
+Color=218, 247, 161
+
+[Color3]
+Color=77, 210, 255
+
+[Color3Faint]
+Color=77, 210, 255
+
+[Color3Intense]
+Color=153, 230, 255
+
+[Color4]
+Color=90, 242, 242
+
+[Color4Faint]
+Color=90, 242, 242
+
+[Color4Intense]
+Color=161, 247, 247
+
+[Color5]
+Color=94, 237, 94
+
+[Color5Faint]
+Color=94, 237, 94
+
+[Color5Intense]
+Color=163, 245, 163
+
+[Color6]
+Color=90, 242, 191
+
+[Color6Faint]
+Color=90, 242, 191
+
+[Color6Intense]
+Color=161, 247, 218
+
+[Color7]
+Color=144, 213, 199
+
+[Color7Faint]
+Color=144, 213, 199
+
+[Color7Intense]
+Color=181, 227, 218
+
+[Foreground]
+Color=144, 213, 199
+
+[ForegroundFaint]
+Color=144, 213, 199
+
+[ForegroundIntense]
+Color=181, 227, 218
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=aurora-borealis
+Opacity=1
+Wallpaper=

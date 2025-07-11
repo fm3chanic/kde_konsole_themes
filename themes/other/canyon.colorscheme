@@ -1,0 +1,96 @@
+[Background]
+Color=179, 149, 128
+
+[BackgroundFaint]
+Color=179, 149, 128
+
+[BackgroundIntense]
+Color=207, 191, 175
+
+[Color0]
+Color=179, 149, 128
+
+[Color0Faint]
+Color=179, 149, 128
+
+[Color0Intense]
+Color=207, 191, 175
+
+[Color1]
+Color=173, 31, 31
+
+[Color1Faint]
+Color=173, 31, 31
+
+[Color1Intense]
+Color=130, 23, 23
+
+[Color2]
+Color=173, 31, 66
+
+[Color2Faint]
+Color=173, 31, 66
+
+[Color2Intense]
+Color=130, 23, 50
+
+[Color3]
+Color=143, 61, 82
+
+[Color3Faint]
+Color=143, 61, 82
+
+[Color3Intense]
+Color=107, 46, 61
+
+[Color4]
+Color=153, 51, 51
+
+[Color4Faint]
+Color=153, 51, 51
+
+[Color4Intense]
+Color=115, 38, 38
+
+[Color5]
+Color=134, 74, 45
+
+[Color5Faint]
+Color=134, 74, 45
+
+[Color5Intense]
+Color=96, 53, 32
+
+[Color6]
+Color=152, 89, 27
+
+[Color6Faint]
+Color=152, 89, 27
+
+[Color6Intense]
+Color=108, 64, 19
+
+[Color7]
+Color=55, 50, 36
+
+[Color7Faint]
+Color=55, 50, 36
+
+[Color7Intense]
+Color=33, 29, 18
+
+[Foreground]
+Color=55, 50, 36
+
+[ForegroundFaint]
+Color=55, 50, 36
+
+[ForegroundIntense]
+Color=33, 29, 18
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=canyon
+Opacity=1
+Wallpaper=

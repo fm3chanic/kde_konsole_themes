@@ -1,0 +1,96 @@
+[Background]
+Color=38, 64, 50
+
+[BackgroundFaint]
+Color=38, 64, 50
+
+[BackgroundIntense]
+Color=67, 112, 88
+
+[Color0]
+Color=38, 64, 50
+
+[Color0Faint]
+Color=38, 64, 50
+
+[Color0Intense]
+Color=67, 112, 88
+
+[Color1]
+Color=117, 240, 158
+
+[Color1Faint]
+Color=117, 240, 158
+
+[Color1Intense]
+Color=163, 245, 190
+
+[Color2]
+Color=196, 232, 125
+
+[Color2Faint]
+Color=196, 232, 125
+
+[Color2Intense]
+Color=216, 240, 168
+
+[Color3]
+Color=204, 204, 153
+
+[Color3Faint]
+Color=204, 204, 153
+
+[Color3Intense]
+Color=221, 221, 187
+
+[Color4]
+Color=140, 217, 179
+
+[Color4Faint]
+Color=140, 217, 179
+
+[Color4Intense]
+Color=179, 230, 204
+
+[Color5]
+Color=140, 217, 140
+
+[Color5Faint]
+Color=140, 217, 140
+
+[Color5Intense]
+Color=179, 230, 179
+
+[Color6]
+Color=149, 208, 208
+
+[Color6Faint]
+Color=149, 208, 208
+
+[Color6Intense]
+Color=184, 224, 224
+
+[Color7]
+Color=175, 207, 190
+
+[Color7Faint]
+Color=175, 207, 190
+
+[Color7Intense]
+Color=207, 226, 216
+
+[Foreground]
+Color=175, 207, 190
+
+[ForegroundFaint]
+Color=175, 207, 190
+
+[ForegroundIntense]
+Color=207, 226, 216
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=forest-spruce
+Opacity=1
+Wallpaper=
