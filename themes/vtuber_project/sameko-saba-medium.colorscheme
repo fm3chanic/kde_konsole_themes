@@ -1,0 +1,96 @@
+[Background]
+Color=69, 141, 161
+
+[BackgroundFaint]
+Color=69, 141, 161
+
+[BackgroundIntense]
+Color=58, 106, 120
+
+[Color0]
+Color=69, 141, 161
+
+[Color0Faint]
+Color=69, 141, 161
+
+[Color0Intense]
+Color=58, 106, 120
+
+[Color1]
+Color=235, 147, 158
+
+[Color1Faint]
+Color=235, 147, 158
+
+[Color1Intense]
+Color=243, 190, 197
+
+[Color2]
+Color=249, 191, 133
+
+[Color2Faint]
+Color=249, 191, 133
+
+[Color2Intense]
+Color=252, 217, 182
+
+[Color3]
+Color=202, 203, 206
+
+[Color3Faint]
+Color=202, 203, 206
+
+[Color3Intense]
+Color=228, 229, 231
+
+[Color4]
+Color=221, 203, 162
+
+[Color4Faint]
+Color=221, 203, 162
+
+[Color4Intense]
+Color=234, 224, 199
+
+[Color5]
+Color=134, 228, 249
+
+[Color5Faint]
+Color=134, 228, 249
+
+[Color5Intense]
+Color=182, 239, 252
+
+[Color6]
+Color=173, 186, 210
+
+[Color6Faint]
+Color=173, 186, 210
+
+[Color6Intense]
+Color=206, 213, 228
+
+[Color7]
+Color=249, 238, 184
+
+[Color7Faint]
+Color=249, 238, 184
+
+[Color7Intense]
+Color=254, 246, 205
+
+[Foreground]
+Color=249, 238, 184
+
+[ForegroundFaint]
+Color=249, 238, 184
+
+[ForegroundIntense]
+Color=254, 246, 205
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=sameko-saba-medium
+Opacity=1
+Wallpaper=
