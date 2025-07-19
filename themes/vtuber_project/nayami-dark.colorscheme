@@ -1,0 +1,96 @@
+[Background]
+Color=48, 35, 67
+
+[BackgroundFaint]
+Color=48, 35, 67
+
+[BackgroundIntense]
+Color=116, 70, 62
+
+[Color0]
+Color=48, 35, 67
+
+[Color0Faint]
+Color=48, 35, 67
+
+[Color0Intense]
+Color=116, 70, 62
+
+[Color1]
+Color=237, 120, 184
+
+[Color1Faint]
+Color=237, 120, 184
+
+[Color1Intense]
+Color=243, 165, 208
+
+[Color2]
+Color=240, 209, 117
+
+[Color2Faint]
+Color=240, 209, 117
+
+[Color2Intense]
+Color=245, 224, 163
+
+[Color3]
+Color=120, 159, 237
+
+[Color3Faint]
+Color=120, 159, 237
+
+[Color3Intense]
+Color=165, 191, 243
+
+[Color4]
+Color=232, 125, 232
+
+[Color4Faint]
+Color=232, 125, 232
+
+[Color4Intense]
+Color=255, 153, 255
+
+[Color5]
+Color=232, 125, 166
+
+[Color5Faint]
+Color=232, 125, 166
+
+[Color5Intense]
+Color=252, 156, 193
+
+[Color6]
+Color=247, 179, 110
+
+[Color6Faint]
+Color=247, 179, 110
+
+[Color6Intense]
+Color=250, 204, 158
+
+[Color7]
+Color=249, 193, 184
+
+[Color7Faint]
+Color=249, 193, 184
+
+[Color7Intense]
+Color=253, 212, 206
+
+[Foreground]
+Color=249, 193, 184
+
+[ForegroundFaint]
+Color=249, 193, 184
+
+[ForegroundIntense]
+Color=253, 212, 206
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=nayami-dark
+Opacity=1
+Wallpaper=
