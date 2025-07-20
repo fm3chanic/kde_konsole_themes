@@ -1,0 +1,96 @@
+[Background]
+Color=185, 191, 223
+
+[BackgroundFaint]
+Color=185, 191, 223
+
+[BackgroundIntense]
+Color=193, 139, 168
+
+[Color0]
+Color=185, 191, 223
+
+[Color0Faint]
+Color=185, 191, 223
+
+[Color0Intense]
+Color=193, 139, 168
+
+[Color1]
+Color=142, 37, 116
+
+[Color1Faint]
+Color=142, 37, 116
+
+[Color1Intense]
+Color=182, 47, 149
+
+[Color2]
+Color=142, 37, 89
+
+[Color2Faint]
+Color=142, 37, 89
+
+[Color2Intense]
+Color=182, 47, 115
+
+[Color3]
+Color=36, 89, 143
+
+[Color3Faint]
+Color=36, 89, 143
+
+[Color3Intense]
+Color=46, 115, 184
+
+[Color4]
+Color=116, 37, 142
+
+[Color4Faint]
+Color=116, 37, 142
+
+[Color4Intense]
+Color=149, 47, 182
+
+[Color5]
+Color=143, 36, 62
+
+[Color5Faint]
+Color=143, 36, 62
+
+[Color5Intense]
+Color=184, 46, 80
+
+[Color6]
+Color=89, 27, 152
+
+[Color6Faint]
+Color=89, 27, 152
+
+[Color6Intense]
+Color=115, 34, 195
+
+[Color7]
+Color=91, 36, 66
+
+[Color7Faint]
+Color=91, 36, 66
+
+[Color7Intense]
+Color=55, 22, 40
+
+[Foreground]
+Color=91, 36, 66
+
+[ForegroundFaint]
+Color=91, 36, 66
+
+[ForegroundIntense]
+Color=55, 22, 40
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=camila-light
+Opacity=1
+Wallpaper=
