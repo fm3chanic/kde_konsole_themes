@@ -1,0 +1,96 @@
+[Background]
+Color=45, 45, 57
+
+[BackgroundFaint]
+Color=45, 45, 57
+
+[BackgroundIntense]
+Color=62, 112, 116
+
+[Color0]
+Color=45, 45, 57
+
+[Color0Faint]
+Color=45, 45, 57
+
+[Color0Intense]
+Color=62, 112, 116
+
+[Color1]
+Color=217, 102, 255
+
+[Color1Faint]
+Color=217, 102, 255
+
+[Color1Intense]
+Color=230, 153, 255
+
+[Color2]
+Color=102, 204, 255
+
+[Color2Faint]
+Color=102, 204, 255
+
+[Color2Intense]
+Color=153, 221, 255
+
+[Color3]
+Color=140, 179, 217
+
+[Color3Faint]
+Color=140, 179, 217
+
+[Color3Intense]
+Color=179, 204, 230
+
+[Color4]
+Color=113, 244, 244
+
+[Color4Faint]
+Color=113, 244, 244
+
+[Color4Intense]
+Color=160, 248, 248
+
+[Color5]
+Color=179, 102, 255
+
+[Color5Faint]
+Color=179, 102, 255
+
+[Color5Intense]
+Color=204, 153, 255
+
+[Color6]
+Color=113, 113, 244
+
+[Color6Faint]
+Color=113, 113, 244
+
+[Color6Intense]
+Color=160, 160, 248
+
+[Color7]
+Color=159, 218, 223
+
+[Color7Faint]
+Color=159, 218, 223
+
+[Color7Intense]
+Color=194, 236, 240
+
+[Foreground]
+Color=159, 218, 223
+
+[ForegroundFaint]
+Color=159, 218, 223
+
+[ForegroundIntense]
+Color=194, 236, 240
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=spite-dark
+Opacity=1
+Wallpaper=
