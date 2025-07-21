@@ -5,7 +5,7 @@ Color=49, 35, 27
 Color=49, 35, 27
 
 [BackgroundIntense]
-Color=71, 88, 65
+Color=99, 89, 54
 
 [Color0]
 Color=49, 35, 27
@@ -14,16 +14,16 @@ Color=49, 35, 27
 Color=49, 35, 27
 
 [Color0Intense]
-Color=71, 88, 65
+Color=99, 89, 54
 
 [Color1]
-Color=130, 201, 166
+Color=236, 236, 121
 
 [Color1Faint]
-Color=130, 201, 166
+Color=236, 236, 121
 
 [Color1Intense]
-Color=166, 217, 191
+Color=242, 242, 166
 
 [Color2]
 Color=184, 148, 148
@@ -35,13 +35,13 @@ Color=184, 148, 148
 Color=204, 179, 179
 
 [Color3]
-Color=130, 201, 130
+Color=244, 211, 113
 
 [Color3Faint]
-Color=130, 201, 130
+Color=244, 211, 113
 
 [Color3Intense]
-Color=166, 217, 166
+Color=248, 226, 160
 
 [Color4]
 Color=184, 175, 148
@@ -53,13 +53,13 @@ Color=184, 175, 148
 Color=204, 198, 179
 
 [Color5]
-Color=166, 201, 130
+Color=244, 179, 113
 
 [Color5Faint]
-Color=166, 201, 130
+Color=244, 179, 113
 
 [Color5Intense]
-Color=191, 217, 166
+Color=248, 204, 160
 
 [Color6]
 Color=201, 167, 130
@@ -71,26 +71,26 @@ Color=201, 167, 130
 Color=217, 192, 166
 
 [Color7]
-Color=173, 190, 167
+Color=217, 200, 140
 
 [Color7Faint]
-Color=173, 190, 167
+Color=217, 200, 140
 
 [Color7Intense]
-Color=200, 212, 196
+Color=224, 205, 133
 
 [Foreground]
-Color=173, 190, 167
+Color=217, 200, 140
 
 [ForegroundFaint]
-Color=173, 190, 167
+Color=217, 200, 140
 
 [ForegroundIntense]
-Color=200, 212, 196
+Color=224, 205, 133
 
 [General]
 Blur=false
 ColorRandomization=false
-Description=asche-dark
+Description=asche-banana-dark
 Opacity=1
 Wallpaper=
