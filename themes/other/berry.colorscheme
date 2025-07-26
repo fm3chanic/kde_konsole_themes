@@ -1,0 +1,96 @@
+[Background]
+Color=71, 31, 44
+
+[BackgroundFaint]
+Color=71, 31, 44
+
+[BackgroundIntense]
+Color=84, 62, 116
+
+[Color0]
+Color=71, 31, 44
+
+[Color0Faint]
+Color=71, 31, 44
+
+[Color0Intense]
+Color=84, 62, 116
+
+[Color1]
+Color=232, 125, 125
+
+[Color1Faint]
+Color=232, 125, 125
+
+[Color1Intense]
+Color=240, 168, 168
+
+[Color2]
+Color=148, 148, 209
+
+[Color2Faint]
+Color=148, 148, 209
+
+[Color2Intense]
+Color=184, 184, 224
+
+[Color3]
+Color=129, 129, 228
+
+[Color3Faint]
+Color=129, 129, 228
+
+[Color3Intense]
+Color=171, 171, 237
+
+[Color4]
+Color=217, 140, 179
+
+[Color4Faint]
+Color=217, 140, 179
+
+[Color4Intense]
+Color=230, 179, 204
+
+[Color5]
+Color=217, 140, 217
+
+[Color5Faint]
+Color=217, 140, 217
+
+[Color5Intense]
+Color=230, 179, 230
+
+[Color6]
+Color=179, 121, 236
+
+[Color6Faint]
+Color=179, 121, 236
+
+[Color6Intense]
+Color=204, 166, 242
+
+[Color7]
+Color=183, 159, 223
+
+[Color7Faint]
+Color=183, 159, 223
+
+[Color7Intense]
+Color=211, 194, 240
+
+[Foreground]
+Color=183, 159, 223
+
+[ForegroundFaint]
+Color=183, 159, 223
+
+[ForegroundIntense]
+Color=211, 194, 240
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=berry
+Opacity=1
+Wallpaper=

@@ -1,0 +1,96 @@
+[Background]
+Color=45, 45, 57
+
+[BackgroundFaint]
+Color=45, 45, 57
+
+[BackgroundIntense]
+Color=116, 101, 62
+
+[Color0]
+Color=45, 45, 57
+
+[Color0Faint]
+Color=45, 45, 57
+
+[Color0Intense]
+Color=116, 101, 62
+
+[Color1]
+Color=217, 140, 159
+
+[Color1Faint]
+Color=217, 140, 159
+
+[Color1Intense]
+Color=230, 179, 191
+
+[Color2]
+Color=156, 179, 201
+
+[Color2Faint]
+Color=156, 179, 201
+
+[Color2Intense]
+Color=189, 204, 219
+
+[Color3]
+Color=156, 156, 201
+
+[Color3Faint]
+Color=156, 156, 201
+
+[Color3Intense]
+Color=189, 189, 219
+
+[Color4]
+Color=217, 159, 140
+
+[Color4Faint]
+Color=217, 159, 140
+
+[Color4Intense]
+Color=230, 191, 179
+
+[Color5]
+Color=179, 179, 179
+
+[Color5Faint]
+Color=179, 179, 179
+
+[Color5Intense]
+Color=204, 204, 204
+
+[Color6]
+Color=209, 148, 148
+
+[Color6Faint]
+Color=209, 148, 148
+
+[Color6Intense]
+Color=224, 184, 184
+
+[Color7]
+Color=223, 206, 159
+
+[Color7Faint]
+Color=223, 206, 159
+
+[Color7Intense]
+Color=240, 228, 194
+
+[Foreground]
+Color=223, 206, 159
+
+[ForegroundFaint]
+Color=223, 206, 159
+
+[ForegroundIntense]
+Color=240, 228, 194
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=adeptus-ministorum-dark
+Opacity=1
+Wallpaper=
