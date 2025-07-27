@@ -1,0 +1,96 @@
+[Background]
+Color=210, 202, 198
+
+[BackgroundFaint]
+Color=210, 202, 198
+
+[BackgroundIntense]
+Color=193, 139, 147
+
+[Color0]
+Color=210, 202, 198
+
+[Color0Faint]
+Color=210, 202, 198
+
+[Color0Intense]
+Color=193, 139, 147
+
+[Color1]
+Color=179, 45, 0
+
+[Color1Faint]
+Color=179, 45, 0
+
+[Color1Intense]
+Color=230, 57, 0
+
+[Color2]
+Color=101, 63, 115
+
+[Color2Faint]
+Color=101, 63, 115
+
+[Color2Intense]
+Color=130, 81, 148
+
+[Color3]
+Color=105, 73, 78
+
+[Color3Faint]
+Color=105, 73, 78
+
+[Color3Intense]
+Color=135, 94, 100
+
+[Color4]
+Color=142, 37, 38
+
+[Color4Faint]
+Color=142, 37, 38
+
+[Color4Intense]
+Color=182, 47, 49
+
+[Color5]
+Color=129, 50, 94
+
+[Color5Faint]
+Color=129, 50, 94
+
+[Color5Intense]
+Color=165, 64, 120
+
+[Color6]
+Color=145, 67, 33
+
+[Color6Faint]
+Color=145, 67, 33
+
+[Color6Intense]
+Color=187, 86, 42
+
+[Color7]
+Color=96, 32, 41
+
+[Color7Faint]
+Color=96, 32, 41
+
+[Color7Intense]
+Color=61, 15, 21
+
+[Foreground]
+Color=96, 32, 41
+
+[ForegroundFaint]
+Color=96, 32, 41
+
+[ForegroundIntense]
+Color=61, 15, 21
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=cypress-light
+Opacity=1
+Wallpaper=

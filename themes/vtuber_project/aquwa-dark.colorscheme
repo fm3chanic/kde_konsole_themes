@@ -1,0 +1,96 @@
+[Background]
+Color=36, 50, 66
+
+[BackgroundFaint]
+Color=36, 50, 66
+
+[BackgroundIntense]
+Color=71, 62, 116
+
+[Color0]
+Color=36, 50, 66
+
+[Color0Faint]
+Color=36, 50, 66
+
+[Color0Intense]
+Color=71, 62, 116
+
+[Color1]
+Color=133, 133, 224
+
+[Color1Faint]
+Color=133, 133, 224
+
+[Color1Intense]
+Color=174, 174, 234
+
+[Color2]
+Color=224, 133, 179
+
+[Color2Faint]
+Color=224, 133, 179
+
+[Color2Intense]
+Color=234, 174, 204
+
+[Color3]
+Color=224, 133, 224
+
+[Color3Faint]
+Color=224, 133, 224
+
+[Color3Intense]
+Color=234, 174, 234
+
+[Color4]
+Color=132, 179, 225
+
+[Color4Faint]
+Color=132, 179, 225
+
+[Color4Intense]
+Color=173, 204, 235
+
+[Color5]
+Color=179, 133, 224
+
+[Color5Faint]
+Color=179, 133, 224
+
+[Color5Intense]
+Color=204, 174, 234
+
+[Color6]
+Color=133, 224, 224
+
+[Color6Faint]
+Color=133, 224, 224
+
+[Color6Intense]
+Color=174, 234, 234
+
+[Color7]
+Color=168, 159, 223
+
+[Color7Faint]
+Color=168, 159, 223
+
+[Color7Intense]
+Color=200, 193, 240
+
+[Foreground]
+Color=168, 159, 223
+
+[ForegroundFaint]
+Color=168, 159, 223
+
+[ForegroundIntense]
+Color=200, 193, 240
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=aquwa-dark
+Opacity=1
+Wallpaper=
