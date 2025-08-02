@@ -1,0 +1,96 @@
+[Background]
+Color=38, 38, 38
+
+[BackgroundFaint]
+Color=38, 38, 38
+
+[BackgroundIntense]
+Color=77, 77, 77
+
+[Color0]
+Color=38, 38, 38
+
+[Color0Faint]
+Color=38, 38, 38
+
+[Color0Intense]
+Color=77, 77, 77
+
+[Color1]
+Color=94, 94, 237
+
+[Color1Faint]
+Color=94, 94, 237
+
+[Color1Intense]
+Color=140, 140, 242
+
+[Color2]
+Color=237, 166, 94
+
+[Color2Faint]
+Color=237, 166, 94
+
+[Color2Intense]
+Color=242, 191, 140
+
+[Color3]
+Color=94, 166, 237
+
+[Color3Faint]
+Color=94, 166, 237
+
+[Color3Intense]
+Color=140, 191, 242
+
+[Color4]
+Color=94, 237, 94
+
+[Color4Faint]
+Color=94, 237, 94
+
+[Color4Intense]
+Color=140, 242, 140
+
+[Color5]
+Color=94, 237, 237
+
+[Color5Faint]
+Color=94, 237, 237
+
+[Color5Intense]
+Color=140, 242, 242
+
+[Color6]
+Color=237, 237, 94
+
+[Color6Faint]
+Color=237, 237, 94
+
+[Color6Intense]
+Color=242, 242, 140
+
+[Color7]
+Color=204, 204, 204
+
+[Color7Faint]
+Color=204, 204, 204
+
+[Color7Intense]
+Color=242, 242, 242
+
+[Foreground]
+Color=204, 204, 204
+
+[ForegroundFaint]
+Color=204, 204, 204
+
+[ForegroundIntense]
+Color=242, 242, 242
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=industrial
+Opacity=1
+Wallpaper=
