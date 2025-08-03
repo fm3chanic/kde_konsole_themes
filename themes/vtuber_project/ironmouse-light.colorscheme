@@ -1,0 +1,96 @@
+[Background]
+Color=219, 189, 195
+
+[BackgroundFaint]
+Color=219, 189, 195
+
+[BackgroundIntense]
+Color=164, 152, 179
+
+[Color0]
+Color=219, 189, 195
+
+[Color0Faint]
+Color=219, 189, 195
+
+[Color0Intense]
+Color=164, 152, 179
+
+[Color1]
+Color=72, 72, 106
+
+[Color1Faint]
+Color=72, 72, 106
+
+[Color1Intense]
+Color=93, 93, 137
+
+[Color2]
+Color=147, 31, 62
+
+[Color2Faint]
+Color=147, 31, 62
+
+[Color2Intense]
+Color=189, 40, 80
+
+[Color3]
+Color=103, 76, 86
+
+[Color3Faint]
+Color=103, 76, 86
+
+[Color3Intense]
+Color=132, 98, 110
+
+[Color4]
+Color=130, 69, 48
+
+[Color4Faint]
+Color=130, 69, 48
+
+[Color4Intense]
+Color=168, 88, 62
+
+[Color5]
+Color=87, 54, 124
+
+[Color5Faint]
+Color=87, 54, 124
+
+[Color5Intense]
+Color=112, 70, 160
+
+[Color6]
+Color=140, 38, 116
+
+[Color6Faint]
+Color=140, 38, 116
+
+[Color6Intense]
+Color=180, 49, 150
+
+[Color7]
+Color=62, 48, 80
+
+[Color7Faint]
+Color=62, 48, 80
+
+[Color7Intense]
+Color=36, 27, 50
+
+[Foreground]
+Color=62, 48, 80
+
+[ForegroundFaint]
+Color=62, 48, 80
+
+[ForegroundIntense]
+Color=36, 27, 50
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=ironmouse-light
+Opacity=1
+Wallpaper=
