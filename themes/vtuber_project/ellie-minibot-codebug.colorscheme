@@ -1,0 +1,96 @@
+[Background]
+Color=244, 224, 164
+
+[BackgroundFaint]
+Color=244, 224, 164
+
+[BackgroundIntense]
+Color=139, 193, 193
+
+[Color0]
+Color=244, 224, 164
+
+[Color0Faint]
+Color=244, 224, 164
+
+[Color0Intense]
+Color=139, 193, 193
+
+[Color1]
+Color=45, 45, 134
+
+[Color1Faint]
+Color=45, 45, 134
+
+[Color1Intense]
+Color=57, 57, 172
+
+[Color2]
+Color=170, 89, 8
+
+[Color2Faint]
+Color=170, 89, 8
+
+[Color2Intense]
+Color=219, 115, 10
+
+[Color3]
+Color=27, 152, 152
+
+[Color3Faint]
+Color=27, 152, 152
+
+[Color3Intense]
+Color=34, 195, 195
+
+[Color4]
+Color=153, 138, 0
+
+[Color4Faint]
+Color=153, 138, 0
+
+[Color4Intense]
+Color=204, 184, 0
+
+[Color5]
+Color=27, 89, 152
+
+[Color5Faint]
+Color=27, 89, 152
+
+[Color5Intense]
+Color=34, 115, 195
+
+[Color6]
+Color=170, 122, 8
+
+[Color6Faint]
+Color=170, 122, 8
+
+[Color6Intense]
+Color=219, 157, 10
+
+[Color7]
+Color=32, 96, 96
+
+[Color7Faint]
+Color=32, 96, 96
+
+[Color7Intense]
+Color=15, 61, 61
+
+[Foreground]
+Color=32, 96, 96
+
+[ForegroundFaint]
+Color=32, 96, 96
+
+[ForegroundIntense]
+Color=15, 61, 61
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=ellie-minibot-codebug
+Opacity=1
+Wallpaper=
