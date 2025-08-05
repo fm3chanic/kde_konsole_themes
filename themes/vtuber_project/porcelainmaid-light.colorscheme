@@ -1,0 +1,96 @@
+[Background]
+Color=219, 189, 193
+
+[BackgroundFaint]
+Color=219, 189, 193
+
+[BackgroundIntense]
+Color=193, 139, 164
+
+[Color0]
+Color=219, 189, 193
+
+[Color0Faint]
+Color=219, 189, 193
+
+[Color0Intense]
+Color=193, 139, 164
+
+[Color1]
+Color=45, 45, 134
+
+[Color1Faint]
+Color=45, 45, 134
+
+[Color1Intense]
+Color=57, 57, 172
+
+[Color2]
+Color=152, 58, 27
+
+[Color2Faint]
+Color=152, 58, 27
+
+[Color2Intense]
+Color=195, 75, 34
+
+[Color3]
+Color=89, 36, 143
+
+[Color3Faint]
+Color=89, 36, 143
+
+[Color3Intense]
+Color=115, 46, 184
+
+[Color4]
+Color=147, 31, 31
+
+[Color4Faint]
+Color=147, 31, 31
+
+[Color4Intense]
+Color=189, 40, 40
+
+[Color5]
+Color=134, 45, 134
+
+[Color5Faint]
+Color=134, 45, 134
+
+[Color5Intense]
+Color=172, 57, 172
+
+[Color6]
+Color=143, 36, 87
+
+[Color6Faint]
+Color=143, 36, 87
+
+[Color6Intense]
+Color=184, 46, 112
+
+[Color7]
+Color=96, 32, 62
+
+[Color7Faint]
+Color=96, 32, 62
+
+[Color7Intense]
+Color=61, 15, 37
+
+[Foreground]
+Color=96, 32, 62
+
+[ForegroundFaint]
+Color=96, 32, 62
+
+[ForegroundIntense]
+Color=61, 15, 37
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=porcelainmaid-light
+Opacity=1
+Wallpaper=
