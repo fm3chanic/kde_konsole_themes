@@ -1,0 +1,96 @@
+[Background]
+Color=219, 189, 217
+
+[BackgroundFaint]
+Color=219, 189, 217
+
+[BackgroundIntense]
+Color=148, 184, 175
+
+[Color0]
+Color=219, 189, 217
+
+[Color0Faint]
+Color=219, 189, 217
+
+[Color0Intense]
+Color=148, 184, 175
+
+[Color1]
+Color=126, 126, 27
+
+[Color1Faint]
+Color=126, 126, 27
+
+[Color1Intense]
+Color=168, 168, 36
+
+[Color2]
+Color=31, 89, 147
+
+[Color2Faint]
+Color=31, 89, 147
+
+[Color2Intense]
+Color=40, 115, 189
+
+[Color3]
+Color=147, 89, 31
+
+[Color3Faint]
+Color=147, 89, 31
+
+[Color3Intense]
+Color=189, 115, 40
+
+[Color4]
+Color=27, 126, 126
+
+[Color4Faint]
+Color=27, 126, 126
+
+[Color4Intense]
+Color=36, 168, 168
+
+[Color5]
+Color=138, 107, 15
+
+[Color5Faint]
+Color=138, 107, 15
+
+[Color5Intense]
+Color=184, 143, 20
+
+[Color6]
+Color=31, 122, 77
+
+[Color6Faint]
+Color=31, 122, 77
+
+[Color6Intense]
+Color=42, 162, 102
+
+[Color7]
+Color=60, 35, 92
+
+[Color7Faint]
+Color=60, 35, 92
+
+[Color7Intense]
+Color=35, 15, 61
+
+[Foreground]
+Color=60, 35, 92
+
+[ForegroundFaint]
+Color=60, 35, 92
+
+[ForegroundIntense]
+Color=35, 15, 61
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=rosedoodle-light
+Opacity=1
+Wallpaper=
