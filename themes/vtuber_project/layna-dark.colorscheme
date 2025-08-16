@@ -1,0 +1,96 @@
+[Background]
+Color=38, 38, 38
+
+[BackgroundFaint]
+Color=38, 38, 38
+
+[BackgroundIntense]
+Color=99, 54, 54
+
+[Color0]
+Color=38, 38, 38
+
+[Color0Faint]
+Color=38, 38, 38
+
+[Color0Intense]
+Color=99, 54, 54
+
+[Color1]
+Color=71, 235, 112
+
+[Color1Faint]
+Color=71, 235, 112
+
+[Color1Intense]
+Color=140, 242, 166
+
+[Color2]
+Color=235, 112, 71
+
+[Color2Faint]
+Color=235, 112, 71
+
+[Color2Intense]
+Color=242, 166, 140
+
+[Color3]
+Color=112, 235, 71
+
+[Color3Faint]
+Color=112, 235, 71
+
+[Color3Intense]
+Color=166, 242, 140
+
+[Color4]
+Color=235, 71, 112
+
+[Color4Faint]
+Color=235, 71, 112
+
+[Color4Intense]
+Color=242, 140, 166
+
+[Color5]
+Color=194, 235, 71
+
+[Color5Faint]
+Color=194, 235, 71
+
+[Color5Intense]
+Color=217, 242, 140
+
+[Color6]
+Color=235, 71, 71
+
+[Color6Faint]
+Color=235, 71, 71
+
+[Color6Intense]
+Color=242, 140, 140
+
+[Color7]
+Color=217, 140, 140
+
+[Color7Faint]
+Color=217, 140, 140
+
+[Color7Intense]
+Color=235, 173, 173
+
+[Foreground]
+Color=217, 140, 140
+
+[ForegroundFaint]
+Color=217, 140, 140
+
+[ForegroundIntense]
+Color=235, 173, 173
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=layna-dark
+Opacity=1
+Wallpaper=
