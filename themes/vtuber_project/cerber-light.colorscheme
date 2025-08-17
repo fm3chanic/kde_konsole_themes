@@ -1,0 +1,96 @@
+[Background]
+Color=235, 209, 173
+
+[BackgroundFaint]
+Color=235, 209, 173
+
+[BackgroundIntense]
+Color=152, 143, 189
+
+[Color0]
+Color=235, 209, 173
+
+[Color0Faint]
+Color=235, 209, 173
+
+[Color0Intense]
+Color=152, 143, 189
+
+[Color1]
+Color=138, 120, 15
+
+[Color1Faint]
+Color=138, 120, 15
+
+[Color1Intense]
+Color=184, 159, 20
+
+[Color2]
+Color=131, 22, 127
+
+[Color2Faint]
+Color=131, 22, 127
+
+[Color2Intense]
+Color=174, 30, 170
+
+[Color3]
+Color=130, 50, 23
+
+[Color3Faint]
+Color=130, 50, 23
+
+[Color3Intense]
+Color=173, 66, 31
+
+[Color4]
+Color=91, 23, 130
+
+[Color4Faint]
+Color=91, 23, 130
+
+[Color4Intense]
+Color=121, 31, 173
+
+[Color5]
+Color=131, 89, 22
+
+[Color5Faint]
+Color=131, 89, 22
+
+[Color5Intense]
+Color=174, 119, 30
+
+[Color6]
+Color=44, 23, 130
+
+[Color6Faint]
+Color=44, 23, 130
+
+[Color6Intense]
+Color=59, 31, 173
+
+[Color7]
+Color=45, 32, 96
+
+[Color7Faint]
+Color=45, 32, 96
+
+[Color7Intense]
+Color=25, 15, 61
+
+[Foreground]
+Color=45, 32, 96
+
+[ForegroundFaint]
+Color=45, 32, 96
+
+[ForegroundIntense]
+Color=25, 15, 61
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=cerber-light
+Opacity=1
+Wallpaper=

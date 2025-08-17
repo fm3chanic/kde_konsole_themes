@@ -1,0 +1,96 @@
+[Background]
+Color=55, 45, 57
+
+[BackgroundFaint]
+Color=55, 45, 57
+
+[BackgroundIntense]
+Color=125, 99, 54
+
+[Color0]
+Color=55, 45, 57
+
+[Color0Faint]
+Color=55, 45, 57
+
+[Color0Intense]
+Color=125, 99, 54
+
+[Color1]
+Color=232, 125, 179
+
+[Color1Faint]
+Color=232, 125, 179
+
+[Color1Intense]
+Color=240, 168, 204
+
+[Color2]
+Color=232, 134, 125
+
+[Color2Faint]
+Color=232, 134, 125
+
+[Color2Intense]
+Color=240, 174, 168
+
+[Color3]
+Color=232, 125, 232
+
+[Color3Faint]
+Color=232, 125, 232
+
+[Color3Intense]
+Color=240, 168, 240
+
+[Color4]
+Color=255, 225, 102
+
+[Color4Faint]
+Color=255, 225, 102
+
+[Color4Intense]
+Color=255, 235, 153
+
+[Color5]
+Color=255, 102, 115
+
+[Color5Faint]
+Color=255, 102, 115
+
+[Color5Intense]
+Color=255, 153, 162
+
+[Color6]
+Color=255, 199, 102
+
+[Color6Faint]
+Color=255, 199, 102
+
+[Color6Intense]
+Color=255, 218, 153
+
+[Color7]
+Color=230, 201, 153
+
+[Color7Faint]
+Color=230, 201, 153
+
+[Color7Intense]
+Color=244, 223, 190
+
+[Foreground]
+Color=230, 201, 153
+
+[ForegroundFaint]
+Color=230, 201, 153
+
+[ForegroundIntense]
+Color=244, 223, 190
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=jinja-dark-gold
+Opacity=1
+Wallpaper=

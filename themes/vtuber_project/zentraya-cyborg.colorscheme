@@ -1,0 +1,96 @@
+[Background]
+Color=27, 38, 49
+
+[BackgroundFaint]
+Color=27, 38, 49
+
+[BackgroundIntense]
+Color=83, 69, 84
+
+[Color0]
+Color=27, 38, 49
+
+[Color0Faint]
+Color=27, 38, 49
+
+[Color0Intense]
+Color=83, 69, 84
+
+[Color1]
+Color=108, 154, 224
+
+[Color1Faint]
+Color=108, 154, 224
+
+[Color1Intense]
+Color=150, 183, 233
+
+[Color2]
+Color=166, 103, 228
+
+[Color2Faint]
+Color=166, 103, 228
+
+[Color2Intense]
+Color=191, 147, 236
+
+[Color3]
+Color=103, 228, 166
+
+[Color3Faint]
+Color=103, 228, 166
+
+[Color3Intense]
+Color=147, 236, 191
+
+[Color4]
+Color=228, 103, 228
+
+[Color4Faint]
+Color=228, 103, 228
+
+[Color4Intense]
+Color=236, 147, 236
+
+[Color5]
+Color=103, 228, 228
+
+[Color5Faint]
+Color=103, 228, 228
+
+[Color5Intense]
+Color=147, 236, 236
+
+[Color6]
+Color=228, 103, 166
+
+[Color6Faint]
+Color=228, 103, 166
+
+[Color6Intense]
+Color=236, 147, 191
+
+[Color7]
+Color=190, 167, 190
+
+[Color7Faint]
+Color=190, 167, 190
+
+[Color7Intense]
+Color=212, 196, 212
+
+[Foreground]
+Color=190, 167, 190
+
+[ForegroundFaint]
+Color=190, 167, 190
+
+[ForegroundIntense]
+Color=212, 196, 212
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=zentraya-cyborg
+Opacity=1
+Wallpaper=
