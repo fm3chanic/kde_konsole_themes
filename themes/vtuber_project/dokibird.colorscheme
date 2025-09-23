@@ -1,0 +1,96 @@
+[Background]
+Color=51, 51, 51
+
+[BackgroundFaint]
+Color=51, 51, 51
+
+[BackgroundIntense]
+Color=61, 118, 99
+
+[Color0]
+Color=51, 51, 51
+
+[Color0Faint]
+Color=51, 51, 51
+
+[Color0Intense]
+Color=61, 118, 99
+
+[Color1]
+Color=117, 179, 240
+
+[Color1Faint]
+Color=117, 179, 240
+
+[Color1Intense]
+Color=163, 204, 245
+
+[Color2]
+Color=117, 240, 117
+
+[Color2Faint]
+Color=117, 240, 117
+
+[Color2Intense]
+Color=163, 245, 163
+
+[Color3]
+Color=117, 240, 240
+
+[Color3Faint]
+Color=117, 240, 240
+
+[Color3Intense]
+Color=163, 245, 245
+
+[Color4]
+Color=179, 240, 117
+
+[Color4Faint]
+Color=179, 240, 117
+
+[Color4Intense]
+Color=204, 245, 163
+
+[Color5]
+Color=117, 240, 179
+
+[Color5Faint]
+Color=117, 240, 179
+
+[Color5Intense]
+Color=163, 245, 204
+
+[Color6]
+Color=240, 240, 117
+
+[Color6Faint]
+Color=240, 240, 117
+
+[Color6Intense]
+Color=245, 245, 163
+
+[Color7]
+Color=236, 212, 147
+
+[Color7Faint]
+Color=236, 212, 147
+
+[Color7Intense]
+Color=249, 231, 184
+
+[Foreground]
+Color=236, 212, 147
+
+[ForegroundFaint]
+Color=236, 212, 147
+
+[ForegroundIntense]
+Color=249, 231, 184
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=dokibird
+Opacity=1
+Wallpaper=

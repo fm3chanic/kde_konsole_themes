@@ -1,0 +1,96 @@
+[Background]
+Color=201, 185, 223
+
+[BackgroundFaint]
+Color=201, 185, 223
+
+[BackgroundIntense]
+Color=143, 143, 188
+
+[Color0]
+Color=201, 185, 223
+
+[Color0Faint]
+Color=201, 185, 223
+
+[Color0Intense]
+Color=143, 143, 188
+
+[Color1]
+Color=107, 15, 138
+
+[Color1Faint]
+Color=107, 15, 138
+
+[Color1Intense]
+Color=143, 20, 184
+
+[Color2]
+Color=15, 107, 138
+
+[Color2Faint]
+Color=15, 107, 138
+
+[Color2Intense]
+Color=20, 143, 184
+
+[Color3]
+Color=138, 15, 107
+
+[Color3Faint]
+Color=138, 15, 107
+
+[Color3Intense]
+Color=184, 20, 143
+
+[Color4]
+Color=15, 46, 138
+
+[Color4Faint]
+Color=15, 46, 138
+
+[Color4Intense]
+Color=20, 61, 184
+
+[Color5]
+Color=138, 15, 46
+
+[Color5Faint]
+Color=138, 15, 46
+
+[Color5Intense]
+Color=184, 20, 61
+
+[Color6]
+Color=46, 15, 138
+
+[Color6Faint]
+Color=46, 15, 138
+
+[Color6Intense]
+Color=61, 20, 184
+
+[Color7]
+Color=59, 29, 99
+
+[Color7Faint]
+Color=59, 29, 99
+
+[Color7Intense]
+Color=35, 13, 63
+
+[Foreground]
+Color=59, 29, 99
+
+[ForegroundFaint]
+Color=59, 29, 99
+
+[ForegroundIntense]
+Color=35, 13, 63
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=megalodon-light
+Opacity=1
+Wallpaper=

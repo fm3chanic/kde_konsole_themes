@@ -1,0 +1,96 @@
+[Background]
+Color=36, 58, 66
+
+[BackgroundFaint]
+Color=36, 58, 66
+
+[BackgroundIntense]
+Color=107, 125, 54
+
+[Color0]
+Color=36, 58, 66
+
+[Color0Faint]
+Color=36, 58, 66
+
+[Color0Intense]
+Color=107, 125, 54
+
+[Color1]
+Color=247, 110, 179
+
+[Color1Faint]
+Color=247, 110, 179
+
+[Color1Intense]
+Color=250, 158, 204
+
+[Color2]
+Color=213, 247, 110
+
+[Color2Faint]
+Color=213, 247, 110
+
+[Color2Intense]
+Color=227, 250, 158
+
+[Color3]
+Color=247, 110, 110
+
+[Color3Faint]
+Color=247, 110, 110
+
+[Color3Intense]
+Color=250, 158, 158
+
+[Color4]
+Color=110, 247, 144
+
+[Color4Faint]
+Color=110, 247, 144
+
+[Color4Intense]
+Color=158, 250, 181
+
+[Color5]
+Color=247, 181, 110
+
+[Color5Faint]
+Color=247, 181, 110
+
+[Color5Intense]
+Color=250, 206, 158
+
+[Color6]
+Color=144, 247, 110
+
+[Color6Faint]
+Color=144, 247, 110
+
+[Color6Intense]
+Color=181, 250, 158
+
+[Color7]
+Color=230, 153, 153
+
+[Color7Faint]
+Color=230, 153, 153
+
+[Color7Intense]
+Color=240, 194, 194
+
+[Foreground]
+Color=230, 153, 153
+
+[ForegroundFaint]
+Color=230, 153, 153
+
+[ForegroundIntense]
+Color=240, 194, 194
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=maakurika
+Opacity=1
+Wallpaper=

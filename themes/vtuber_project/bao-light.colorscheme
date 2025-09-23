@@ -1,0 +1,96 @@
+[Background]
+Color=189, 195, 219
+
+[BackgroundFaint]
+Color=189, 195, 219
+
+[BackgroundIntense]
+Color=139, 180, 193
+
+[Color0]
+Color=189, 195, 219
+
+[Color0Faint]
+Color=189, 195, 219
+
+[Color0Intense]
+Color=139, 180, 193
+
+[Color1]
+Color=8, 77, 145
+
+[Color1Faint]
+Color=8, 77, 145
+
+[Color1Intense]
+Color=10, 102, 194
+
+[Color2]
+Color=145, 111, 8
+
+[Color2Faint]
+Color=145, 111, 8
+
+[Color2Intense]
+Color=194, 148, 10
+
+[Color3]
+Color=8, 145, 145
+
+[Color3Faint]
+Color=8, 145, 145
+
+[Color3Intense]
+Color=10, 194, 194
+
+[Color4]
+Color=145, 42, 8
+
+[Color4Faint]
+Color=145, 42, 8
+
+[Color4Intense]
+Color=194, 56, 10
+
+[Color5]
+Color=8, 145, 77
+
+[Color5Faint]
+Color=8, 145, 77
+
+[Color5Intense]
+Color=10, 194, 102
+
+[Color6]
+Color=145, 8, 42
+
+[Color6Faint]
+Color=145, 8, 42
+
+[Color6Intense]
+Color=194, 10, 56
+
+[Color7]
+Color=32, 81, 96
+
+[Color7Faint]
+Color=32, 81, 96
+
+[Color7Intense]
+Color=15, 50, 61
+
+[Foreground]
+Color=32, 81, 96
+
+[ForegroundFaint]
+Color=32, 81, 96
+
+[ForegroundIntense]
+Color=15, 50, 61
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=bao-light
+Opacity=1
+Wallpaper=

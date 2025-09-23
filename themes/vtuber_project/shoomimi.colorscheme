@@ -1,0 +1,96 @@
+[Background]
+Color=36, 65, 66
+
+[BackgroundFaint]
+Color=36, 65, 66
+
+[BackgroundIntense]
+Color=62, 113, 116
+
+[Color0]
+Color=36, 65, 66
+
+[Color0Faint]
+Color=36, 65, 66
+
+[Color0Intense]
+Color=62, 113, 116
+
+[Color1]
+Color=125, 179, 232
+
+[Color1Faint]
+Color=125, 179, 232
+
+[Color1Intense]
+Color=168, 204, 240
+
+[Color2]
+Color=232, 125, 232
+
+[Color2Faint]
+Color=232, 125, 232
+
+[Color2Intense]
+Color=240, 168, 240
+
+[Color3]
+Color=125, 125, 232
+
+[Color3Faint]
+Color=125, 125, 232
+
+[Color3Intense]
+Color=168, 168, 240
+
+[Color4]
+Color=232, 125, 179
+
+[Color4Faint]
+Color=232, 125, 179
+
+[Color4Intense]
+Color=240, 168, 204
+
+[Color5]
+Color=179, 125, 232
+
+[Color5Faint]
+Color=179, 125, 232
+
+[Color5Intense]
+Color=204, 168, 240
+
+[Color6]
+Color=232, 125, 125
+
+[Color6Faint]
+Color=232, 125, 125
+
+[Color6Intense]
+Color=240, 168, 168
+
+[Color7]
+Color=223, 159, 175
+
+[Color7Faint]
+Color=223, 159, 175
+
+[Color7Intense]
+Color=240, 194, 205
+
+[Foreground]
+Color=223, 159, 175
+
+[ForegroundFaint]
+Color=223, 159, 175
+
+[ForegroundIntense]
+Color=240, 194, 205
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=shoomimi
+Opacity=1
+Wallpaper=

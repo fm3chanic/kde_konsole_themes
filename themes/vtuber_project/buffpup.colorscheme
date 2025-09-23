@@ -1,0 +1,96 @@
+[Background]
+Color=240, 206, 168
+
+[BackgroundFaint]
+Color=240, 206, 168
+
+[BackgroundIntense]
+Color=201, 146, 130
+
+[Color0]
+Color=240, 206, 168
+
+[Color0Faint]
+Color=240, 206, 168
+
+[Color0Intense]
+Color=201, 146, 130
+
+[Color1]
+Color=145, 8, 8
+
+[Color1Faint]
+Color=145, 8, 8
+
+[Color1Intense]
+Color=194, 10, 10
+
+[Color2]
+Color=131, 22, 49
+
+[Color2Faint]
+Color=131, 22, 49
+
+[Color2Intense]
+Color=174, 30, 66
+
+[Color3]
+Color=104, 22, 131
+
+[Color3Faint]
+Color=104, 22, 131
+
+[Color3Intense]
+Color=138, 30, 174
+
+[Color4]
+Color=145, 42, 8
+
+[Color4Faint]
+Color=145, 42, 8
+
+[Color4Intense]
+Color=194, 56, 10
+
+[Color5]
+Color=131, 22, 104
+
+[Color5Faint]
+Color=131, 22, 104
+
+[Color5Intense]
+Color=174, 30, 138
+
+[Color6]
+Color=145, 113, 8
+
+[Color6Faint]
+Color=145, 113, 8
+
+[Color6Intense]
+Color=174, 141, 30
+
+[Color7]
+Color=102, 42, 25
+
+[Color7Faint]
+Color=102, 42, 25
+
+[Color7Intense]
+Color=65, 23, 11
+
+[Foreground]
+Color=102, 42, 25
+
+[ForegroundFaint]
+Color=102, 42, 25
+
+[ForegroundIntense]
+Color=65, 23, 11
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=buffpup
+Opacity=1
+Wallpaper=

@@ -1,0 +1,96 @@
+[Background]
+Color=51, 51, 51
+
+[BackgroundFaint]
+Color=51, 51, 51
+
+[BackgroundIntense]
+Color=143, 89, 36
+
+[Color0]
+Color=51, 51, 51
+
+[Color0Faint]
+Color=51, 51, 51
+
+[Color0Intense]
+Color=143, 89, 36
+
+[Color1]
+Color=255, 102, 140
+
+[Color1Faint]
+Color=255, 102, 140
+
+[Color1Intense]
+Color=255, 153, 179
+
+[Color2]
+Color=255, 255, 102
+
+[Color2Faint]
+Color=255, 255, 102
+
+[Color2Intense]
+Color=255, 255, 153
+
+[Color3]
+Color=255, 102, 102
+
+[Color3Faint]
+Color=255, 102, 102
+
+[Color3Intense]
+Color=255, 153, 153
+
+[Color4]
+Color=255, 217, 102
+
+[Color4Faint]
+Color=255, 217, 102
+
+[Color4Intense]
+Color=255, 230, 153
+
+[Color5]
+Color=255, 140, 102
+
+[Color5Faint]
+Color=255, 140, 102
+
+[Color5Intense]
+Color=255, 179, 153
+
+[Color6]
+Color=255, 179, 102
+
+[Color6Faint]
+Color=255, 179, 102
+
+[Color6Intense]
+Color=255, 204, 153
+
+[Color7]
+Color=217, 217, 217
+
+[Color7Faint]
+Color=217, 217, 217
+
+[Color7Intense]
+Color=255, 255, 255
+
+[Foreground]
+Color=217, 217, 217
+
+[ForegroundFaint]
+Color=217, 217, 217
+
+[ForegroundIntense]
+Color=255, 255, 255
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=rekson
+Opacity=1
+Wallpaper=
