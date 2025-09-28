@@ -1,0 +1,96 @@
+[Background]
+Color=51, 51, 51
+
+[BackgroundFaint]
+Color=51, 51, 51
+
+[BackgroundIntense]
+Color=62, 105, 116
+
+[Color0]
+Color=51, 51, 51
+
+[Color0Faint]
+Color=51, 51, 51
+
+[Color0Intense]
+Color=62, 105, 116
+
+[Color1]
+Color=255, 153, 51
+
+[Color1Faint]
+Color=255, 153, 51
+
+[Color1Intense]
+Color=255, 191, 128
+
+[Color2]
+Color=51, 153, 255
+
+[Color2Faint]
+Color=51, 153, 255
+
+[Color2Intense]
+Color=128, 191, 255
+
+[Color3]
+Color=255, 204, 51
+
+[Color3Faint]
+Color=255, 204, 51
+
+[Color3Intense]
+Color=255, 223, 128
+
+[Color4]
+Color=51, 255, 204
+
+[Color4Faint]
+Color=51, 255, 204
+
+[Color4Intense]
+Color=128, 255, 223
+
+[Color5]
+Color=255, 255, 51
+
+[Color5Faint]
+Color=255, 255, 51
+
+[Color5Intense]
+Color=255, 255, 128
+
+[Color6]
+Color=51, 211, 255
+
+[Color6Faint]
+Color=51, 211, 255
+
+[Color6Intense]
+Color=128, 227, 255
+
+[Color7]
+Color=159, 210, 223
+
+[Color7Faint]
+Color=159, 210, 223
+
+[Color7Intense]
+Color=194, 230, 240
+
+[Foreground]
+Color=159, 210, 223
+
+[ForegroundFaint]
+Color=159, 210, 223
+
+[ForegroundIntense]
+Color=194, 230, 240
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=golang-blue
+Opacity=1
+Wallpaper=

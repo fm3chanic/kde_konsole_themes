@@ -1,0 +1,96 @@
+[Background]
+Color=26, 26, 26
+
+[BackgroundFaint]
+Color=26, 26, 26
+
+[BackgroundIntense]
+Color=77, 77, 77
+
+[Color0]
+Color=26, 26, 26
+
+[Color0Faint]
+Color=26, 26, 26
+
+[Color0Intense]
+Color=77, 77, 77
+
+[Color1]
+Color=255, 0, 0
+
+[Color1Faint]
+Color=255, 0, 0
+
+[Color1Intense]
+Color=255, 153, 153
+
+[Color2]
+Color=255, 0, 255
+
+[Color2Faint]
+Color=255, 0, 255
+
+[Color2Intense]
+Color=255, 153, 255
+
+[Color3]
+Color=0, 128, 255
+
+[Color3Faint]
+Color=0, 128, 255
+
+[Color3Intense]
+Color=153, 204, 255
+
+[Color4]
+Color=0, 255, 255
+
+[Color4Faint]
+Color=0, 255, 255
+
+[Color4Intense]
+Color=153, 255, 255
+
+[Color5]
+Color=255, 255, 0
+
+[Color5Faint]
+Color=255, 255, 0
+
+[Color5Intense]
+Color=255, 255, 153
+
+[Color6]
+Color=0, 255, 0
+
+[Color6Faint]
+Color=0, 255, 0
+
+[Color6Intense]
+Color=153, 255, 153
+
+[Color7]
+Color=204, 204, 204
+
+[Color7Faint]
+Color=204, 204, 204
+
+[Color7Intense]
+Color=255, 255, 255
+
+[Foreground]
+Color=204, 204, 204
+
+[ForegroundFaint]
+Color=204, 204, 204
+
+[ForegroundIntense]
+Color=255, 255, 255
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=high-contrast
+Opacity=1
+Wallpaper=
