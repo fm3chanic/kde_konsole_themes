@@ -1,17 +1,17 @@
 [Background]
-Color=230, 179, 230
+Color=236, 198, 236
 
 [BackgroundFaint]
-Color=230, 179, 230
+Color=236, 198, 236
 
 [BackgroundIntense]
 Color=184, 148, 184
 
 [Color0]
-Color=230, 179, 230
+Color=236, 198, 236
 
 [Color0Faint]
-Color=230, 179, 230
+Color=236, 198, 236
 
 [Color0Intense]
 Color=184, 148, 184
@@ -23,52 +23,52 @@ Color=31, 31, 122
 Color=31, 31, 122
 
 [Color1Intense]
-Color=42, 42, 162
+Color=31, 31, 122
 
 [Color2]
-Color=130, 23, 23
+Color=130, 23, 77
 
 [Color2Faint]
-Color=130, 23, 23
+Color=130, 23, 77
 
 [Color2Intense]
-Color=173, 31, 31
+Color=130, 23, 77
 
 [Color3]
-Color=122, 54, 31
+Color=77, 15, 138
 
 [Color3Faint]
-Color=122, 54, 31
+Color=77, 15, 138
 
 [Color3Intense]
-Color=162, 72, 42
+Color=77, 15, 138
 
 [Color4]
-Color=130, 23, 77
+Color=130, 23, 130
 
 [Color4Faint]
-Color=130, 23, 77
+Color=130, 23, 130
 
 [Color4Intense]
-Color=173, 31, 102
+Color=130, 23, 130
 
 [Color5]
-Color=77, 15, 138
+Color=130, 23, 23
 
 [Color5Faint]
-Color=77, 15, 138
+Color=130, 23, 23
 
 [Color5Intense]
-Color=102, 20, 184
+Color=130, 23, 23
 
 [Color6]
-Color=130, 23, 130
+Color=122, 54, 31
 
 [Color6Faint]
-Color=130, 23, 130
+Color=122, 54, 31
 
 [Color6Intense]
-Color=173, 31, 173
+Color=122, 54, 31
 
 [Color7]
 Color=51, 51, 51
@@ -77,13 +77,13 @@ Color=51, 51, 51
 Color=51, 51, 51
 
 [Color7Intense]
-Color=26, 26, 26
+Color=51, 51, 51
 
 [Foreground]
-Color=51, 51, 51
+Color=77, 77, 77
 
 [ForegroundFaint]
-Color=51, 51, 51
+Color=77, 77, 77
 
 [ForegroundIntense]
 Color=26, 26, 26

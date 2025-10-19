@@ -1,74 +1,74 @@
 [Background]
-Color=BackGround2
+Color=BackGround1
 
 [BackgroundFaint]
-Color=BackGround2
+Color=BackGround1
 
 [BackgroundIntense]
 Color=HighLight3
 
 [Color0]
-Color=BackGround2
+Color=BackGround1
 
 [Color0Faint]
-Color=BackGround2
+Color=BackGround1
 
 [Color0Intense]
 Color=HighLight3
 
 [Color1]
-Color=Main1
+Color=Syn1
 
 [Color1Faint]
-Color=Main1
+Color=Syn1
 
 [Color1Intense]
-Color=Sub1
+Color=Syn1
 
 [Color2]
-Color=Main2
+Color=Syn2
 
 [Color2Faint]
-Color=Main2
+Color=Syn2
 
 [Color2Intense]
-Color=Sub2
+Color=Syn2
 
 [Color3]
-Color=Main3
+Color=Syn3
 
 [Color3Faint]
-Color=Main3
+Color=Syn3
 
 [Color3Intense]
-Color=Sub3
+Color=Syn3
 
 [Color4]
-Color=Main4
+Color=Syn4
 
 [Color4Faint]
-Color=Main4
+Color=Syn4
 
 [Color4Intense]
-Color=Sub4
+Color=Syn4
 
 [Color5]
-Color=Main5
+Color=Syn5
 
 [Color5Faint]
-Color=Main5
+Color=Syn5
 
 [Color5Intense]
-Color=Sub5
+Color=Syn5
 
 [Color6]
-Color=Main6
+Color=Syn6
 
 [Color6Faint]
-Color=Main6
+Color=Syn6
 
 [Color6Intense]
-Color=Sub6
+Color=Syn6
 
 [Color7]
 Color=ForeGround2
@@ -77,13 +77,13 @@ Color=ForeGround2
 Color=ForeGround2
 
 [Color7Intense]
-Color=ForeGround1
+Color=ForeGround2
 
 [Foreground]
-Color=ForeGround2
+Color=ForeGround3
 
 [ForegroundFaint]
-Color=ForeGround2
+Color=ForeGround3
 
 [ForegroundIntense]
 Color=ForeGround1
