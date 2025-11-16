@@ -1,0 +1,96 @@
+[Background]
+Color=23, 28, 28
+
+[BackgroundFaint]
+Color=23, 28, 28
+
+[BackgroundIntense]
+Color=69, 84, 84
+
+[Color0]
+Color=23, 28, 28
+
+[Color0Faint]
+Color=23, 28, 28
+
+[Color0Intense]
+Color=69, 84, 84
+
+[Color1]
+Color=235, 188, 173
+
+[Color1Faint]
+Color=235, 188, 173
+
+[Color1Intense]
+Color=235, 188, 173
+
+[Color2]
+Color=235, 220, 173
+
+[Color2Faint]
+Color=235, 220, 173
+
+[Color2Intense]
+Color=235, 220, 173
+
+[Color3]
+Color=173, 235, 220
+
+[Color3Faint]
+Color=173, 235, 220
+
+[Color3Intense]
+Color=173, 235, 220
+
+[Color4]
+Color=173, 235, 188
+
+[Color4Faint]
+Color=173, 235, 188
+
+[Color4Intense]
+Color=173, 235, 188
+
+[Color5]
+Color=173, 220, 235
+
+[Color5Faint]
+Color=173, 220, 235
+
+[Color5Intense]
+Color=173, 220, 235
+
+[Color6]
+Color=235, 173, 204
+
+[Color6Faint]
+Color=235, 173, 204
+
+[Color6Intense]
+Color=235, 173, 204
+
+[Color7]
+Color=175, 175, 182
+
+[Color7Faint]
+Color=175, 175, 182
+
+[Color7Intense]
+Color=175, 175, 182
+
+[Foreground]
+Color=148, 148, 158
+
+[ForegroundFaint]
+Color=148, 148, 158
+
+[ForegroundIntense]
+Color=201, 201, 207
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=metropolis
+Opacity=1
+Wallpaper=

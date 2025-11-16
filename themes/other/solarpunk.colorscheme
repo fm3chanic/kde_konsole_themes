@@ -1,0 +1,96 @@
+[Background]
+Color=27, 43, 49
+
+[BackgroundFaint]
+Color=27, 43, 49
+
+[BackgroundIntense]
+Color=76, 95, 103
+
+[Color0]
+Color=27, 43, 49
+
+[Color0Faint]
+Color=27, 43, 49
+
+[Color0Intense]
+Color=76, 95, 103
+
+[Color1]
+Color=249, 65, 68
+
+[Color1Faint]
+Color=249, 65, 68
+
+[Color1Intense]
+Color=249, 65, 68
+
+[Color2]
+Color=249, 199, 79
+
+[Color2Faint]
+Color=249, 199, 79
+
+[Color2Intense]
+Color=249, 199, 79
+
+[Color3]
+Color=133, 193, 176
+
+[Color3Faint]
+Color=133, 193, 176
+
+[Color3Intense]
+Color=133, 193, 176
+
+[Color4]
+Color=181, 228, 140
+
+[Color4Faint]
+Color=181, 228, 140
+
+[Color4Intense]
+Color=181, 228, 140
+
+[Color5]
+Color=113, 162, 193
+
+[Color5Faint]
+Color=113, 162, 193
+
+[Color5Intense]
+Color=113, 162, 193
+
+[Color6]
+Color=240, 243, 189
+
+[Color6Faint]
+Color=240, 243, 189
+
+[Color6Intense]
+Color=240, 243, 189
+
+[Color7]
+Color=197, 201, 182
+
+[Color7Faint]
+Color=197, 201, 182
+
+[Color7Intense]
+Color=197, 201, 182
+
+[Foreground]
+Color=173, 179, 152
+
+[ForegroundFaint]
+Color=173, 179, 152
+
+[ForegroundIntense]
+Color=220, 222, 211
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=solarpunk
+Opacity=1
+Wallpaper=
