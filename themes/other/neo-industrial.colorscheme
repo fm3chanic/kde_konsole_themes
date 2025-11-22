@@ -1,0 +1,96 @@
+[Background]
+Color=42, 46, 31
+
+[BackgroundFaint]
+Color=42, 46, 31
+
+[BackgroundIntense]
+Color=98, 95, 80
+
+[Color0]
+Color=42, 46, 31
+
+[Color0Faint]
+Color=42, 46, 31
+
+[Color0Intense]
+Color=98, 95, 80
+
+[Color1]
+Color=217, 140, 159
+
+[Color1Faint]
+Color=217, 140, 159
+
+[Color1Intense]
+Color=217, 140, 159
+
+[Color2]
+Color=224, 179, 133
+
+[Color2Faint]
+Color=224, 179, 133
+
+[Color2Intense]
+Color=224, 179, 133
+
+[Color3]
+Color=148, 209, 179
+
+[Color3Faint]
+Color=148, 209, 179
+
+[Color3Intense]
+Color=148, 209, 179
+
+[Color4]
+Color=194, 209, 148
+
+[Color4Faint]
+Color=194, 209, 148
+
+[Color4Intense]
+Color=194, 209, 148
+
+[Color5]
+Color=148, 194, 209
+
+[Color5Faint]
+Color=148, 194, 209
+
+[Color5Intense]
+Color=148, 194, 209
+
+[Color6]
+Color=201, 156, 190
+
+[Color6Faint]
+Color=201, 156, 190
+
+[Color6Intense]
+Color=201, 156, 190
+
+[Color7]
+Color=198, 195, 185
+
+[Color7Faint]
+Color=198, 195, 185
+
+[Color7Intense]
+Color=198, 195, 185
+
+[Foreground]
+Color=175, 172, 157
+
+[ForegroundFaint]
+Color=175, 172, 157
+
+[ForegroundIntense]
+Color=221, 219, 213
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=neo-industrial
+Opacity=1
+Wallpaper=
