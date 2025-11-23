@@ -1,20 +1,20 @@
 [Background]
-Color=18, 23, 33
+Color=33, 44, 44
 
 [BackgroundFaint]
-Color=18, 23, 33
+Color=33, 44, 44
 
 [BackgroundIntense]
-Color=92, 61, 92
+Color=77, 95, 102
 
 [Color0]
-Color=18, 23, 33
+Color=33, 44, 44
 
 [Color0Faint]
-Color=18, 23, 33
+Color=33, 44, 44
 
 [Color0Intense]
-Color=92, 61, 92
+Color=77, 95, 102
 
 [Color1]
 Color=232, 125, 152
@@ -26,71 +26,71 @@ Color=232, 125, 152
 Color=232, 125, 152
 
 [Color2]
-Color=205, 232, 125
+Color=227, 230, 179
 
 [Color2Faint]
-Color=205, 232, 125
+Color=227, 230, 179
 
 [Color2Intense]
-Color=205, 232, 125
+Color=227, 230, 179
 
 [Color3]
-Color=125, 232, 205
+Color=140, 217, 217
 
 [Color3Faint]
-Color=125, 232, 205
+Color=140, 217, 217
 
 [Color3Intense]
-Color=125, 232, 205
+Color=140, 217, 217
 
 [Color4]
-Color=125, 232, 152
+Color=140, 217, 179
 
 [Color4Faint]
-Color=125, 232, 152
+Color=140, 217, 179
 
 [Color4Intense]
-Color=125, 232, 152
+Color=140, 217, 179
 
 [Color5]
-Color=140, 198, 217
+Color=121, 166, 210
 
 [Color5Faint]
-Color=140, 198, 217
+Color=121, 166, 210
 
 [Color5Intense]
-Color=140, 198, 217
+Color=121, 166, 210
 
 [Color6]
-Color=217, 140, 217
+Color=223, 159, 207
 
 [Color6Faint]
-Color=217, 140, 217
+Color=223, 159, 207
 
 [Color6Intense]
-Color=217, 140, 217
+Color=223, 159, 207
 
 [Color7]
-Color=201, 156, 201
+Color=182, 195, 200
 
 [Color7Faint]
-Color=201, 156, 201
+Color=182, 195, 200
 
 [Color7Intense]
-Color=201, 156, 201
+Color=182, 195, 200
 
 [Foreground]
-Color=184, 122, 184
+Color=153, 171, 178
 
 [ForegroundFaint]
-Color=184, 122, 184
+Color=153, 171, 178
 
 [ForegroundIntense]
-Color=219, 189, 219
+Color=211, 219, 222
 
 [General]
 Blur=false
 ColorRandomization=false
-Description=cyberpunk
+Description=oceanic
 Opacity=1
 Wallpaper=

@@ -26,22 +26,22 @@ Color=248, 109, 109
 Color=248, 109, 109
 
 [Color2]
-Color=179, 255, 255
+Color=255, 170, 128
 
 [Color2Faint]
-Color=179, 255, 255
+Color=255, 170, 128
 
 [Color2Intense]
-Color=179, 255, 255
+Color=255, 170, 128
 
 [Color3]
-Color=255, 170, 128
+Color=179, 255, 255
 
 [Color3Faint]
-Color=255, 170, 128
+Color=179, 255, 255
 
 [Color3Intense]
-Color=255, 170, 128
+Color=179, 255, 255
 
 [Color4]
 Color=134, 249, 191
