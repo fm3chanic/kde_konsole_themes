@@ -1,0 +1,96 @@
+[Background]
+Color=246, 238, 238
+
+[BackgroundFaint]
+Color=246, 238, 238
+
+[BackgroundIntense]
+Color=193, 139, 139
+
+[Color0]
+Color=246, 238, 238
+
+[Color0Faint]
+Color=246, 238, 238
+
+[Color0Intense]
+Color=193, 139, 139
+
+[Color1]
+Color=152, 27, 27
+
+[Color1Faint]
+Color=152, 27, 27
+
+[Color1Intense]
+Color=152, 27, 27
+
+[Color2]
+Color=152, 120, 27
+
+[Color2Faint]
+Color=152, 120, 27
+
+[Color2Intense]
+Color=152, 120, 27
+
+[Color3]
+Color=40, 138, 138
+
+[Color3Faint]
+Color=40, 138, 138
+
+[Color3Intense]
+Color=40, 138, 138
+
+[Color4]
+Color=40, 138, 65
+
+[Color4Faint]
+Color=40, 138, 65
+
+[Color4Intense]
+Color=40, 138, 65
+
+[Color5]
+Color=40, 89, 138
+
+[Color5Faint]
+Color=40, 89, 138
+
+[Color5Intense]
+Color=40, 89, 138
+
+[Color6]
+Color=138, 40, 89
+
+[Color6Faint]
+Color=138, 40, 89
+
+[Color6Intense]
+Color=138, 40, 89
+
+[Color7]
+Color=83, 45, 45
+
+[Color7Faint]
+Color=83, 45, 45
+
+[Color7Intense]
+Color=83, 45, 45
+
+[Foreground]
+Color=116, 62, 62
+
+[ForegroundFaint]
+Color=116, 62, 62
+
+[ForegroundIntense]
+Color=50, 27, 27
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=candy-cane-light
+Opacity=1
+Wallpaper=

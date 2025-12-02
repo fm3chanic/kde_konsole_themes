@@ -1,0 +1,96 @@
+[Background]
+Color=27, 50, 38
+
+[BackgroundFaint]
+Color=27, 50, 38
+
+[BackgroundIntense]
+Color=103, 76, 76
+
+[Color0]
+Color=27, 50, 38
+
+[Color0Faint]
+Color=27, 50, 38
+
+[Color0Intense]
+Color=103, 76, 76
+
+[Color1]
+Color=228, 103, 103
+
+[Color1Faint]
+Color=228, 103, 103
+
+[Color1Intense]
+Color=228, 103, 103
+
+[Color2]
+Color=228, 197, 103
+
+[Color2Faint]
+Color=228, 197, 103
+
+[Color2Intense]
+Color=228, 197, 103
+
+[Color3]
+Color=117, 215, 215
+
+[Color3Faint]
+Color=117, 215, 215
+
+[Color3Intense]
+Color=117, 215, 215
+
+[Color4]
+Color=117, 215, 141
+
+[Color4Faint]
+Color=117, 215, 141
+
+[Color4Intense]
+Color=117, 215, 141
+
+[Color5]
+Color=117, 166, 215
+
+[Color5Faint]
+Color=117, 166, 215
+
+[Color5Intense]
+Color=117, 166, 215
+
+[Color6]
+Color=215, 117, 166
+
+[Color6Faint]
+Color=215, 117, 166
+
+[Color6Intense]
+Color=215, 117, 166
+
+[Color7]
+Color=201, 182, 182
+
+[Color7Faint]
+Color=201, 182, 182
+
+[Color7Intense]
+Color=201, 182, 182
+
+[Foreground]
+Color=179, 152, 152
+
+[ForegroundFaint]
+Color=179, 152, 152
+
+[ForegroundIntense]
+Color=222, 211, 211
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=christmas-green
+Opacity=1
+Wallpaper=
