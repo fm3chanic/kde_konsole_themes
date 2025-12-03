@@ -5,7 +5,7 @@ Color=50, 27, 27
 Color=50, 27, 27
 
 [BackgroundIntense]
-Color=147, 83, 83
+Color=116, 62, 62
 
 [Color0]
 Color=50, 27, 27
@@ -14,7 +14,7 @@ Color=50, 27, 27
 Color=50, 27, 27
 
 [Color0Intense]
-Color=147, 83, 83
+Color=116, 62, 62
 
 [Color1]
 Color=228, 103, 103
@@ -26,13 +26,13 @@ Color=228, 103, 103
 Color=228, 103, 103
 
 [Color2]
-Color=228, 197, 103
+Color=237, 201, 94
 
 [Color2Faint]
-Color=228, 197, 103
+Color=237, 201, 94
 
 [Color2Intense]
-Color=228, 197, 103
+Color=237, 201, 94
 
 [Color3]
 Color=117, 215, 215

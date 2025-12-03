@@ -1,29 +1,29 @@
 [Background]
-Color=246, 238, 238
+Color=205, 222, 228
 
 [BackgroundFaint]
-Color=246, 238, 238
+Color=205, 222, 228
 
 [BackgroundIntense]
-Color=193, 139, 139
+Color=152, 179, 179
 
 [Color0]
-Color=246, 238, 238
+Color=205, 222, 228
 
 [Color0Faint]
-Color=246, 238, 238
+Color=205, 222, 228
 
 [Color0Intense]
-Color=193, 139, 139
+Color=152, 179, 179
 
 [Color1]
-Color=152, 27, 27
+Color=147, 31, 31
 
 [Color1Faint]
-Color=152, 27, 27
+Color=147, 31, 31
 
 [Color1Intense]
-Color=152, 27, 27
+Color=147, 31, 31
 
 [Color2]
 Color=161, 125, 18
@@ -35,62 +35,62 @@ Color=161, 125, 18
 Color=161, 125, 18
 
 [Color3]
-Color=40, 138, 138
+Color=31, 147, 118
 
 [Color3Faint]
-Color=40, 138, 138
+Color=31, 147, 118
 
 [Color3Intense]
-Color=40, 138, 138
+Color=31, 147, 118
 
 [Color4]
-Color=40, 138, 65
+Color=118, 147, 31
 
 [Color4Faint]
-Color=40, 138, 65
+Color=118, 147, 31
 
 [Color4Intense]
-Color=40, 138, 65
+Color=118, 147, 31
 
 [Color5]
-Color=40, 89, 138
+Color=31, 118, 147
 
 [Color5Faint]
-Color=40, 89, 138
+Color=31, 118, 147
 
 [Color5Intense]
-Color=40, 89, 138
+Color=31, 118, 147
 
 [Color6]
-Color=138, 40, 89
+Color=134, 45, 89
 
 [Color6Faint]
-Color=138, 40, 89
+Color=134, 45, 89
 
 [Color6Intense]
-Color=138, 40, 89
+Color=134, 45, 89
 
 [Color7]
-Color=83, 45, 45
+Color=54, 68, 73
 
 [Color7Faint]
-Color=83, 45, 45
+Color=54, 68, 73
 
 [Color7Intense]
-Color=83, 45, 45
+Color=54, 68, 73
 
 [Foreground]
-Color=116, 62, 62
+Color=76, 95, 103
 
 [ForegroundFaint]
-Color=116, 62, 62
+Color=76, 95, 103
 
 [ForegroundIntense]
-Color=50, 27, 27
+Color=33, 41, 44
 
 [General]
 Blur=false
 ColorRandomization=false
-Description=candy-cane-light
+Description=ice-shelf
 Opacity=1
 Wallpaper=
