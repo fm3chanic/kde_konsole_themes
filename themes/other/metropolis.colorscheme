@@ -17,13 +17,13 @@ Color=31, 38, 46
 Color=80, 90, 98
 
 [Color1]
-Color=210, 121, 121
+Color=210, 143, 121
 
 [Color1Faint]
-Color=210, 121, 121
+Color=210, 143, 121
 
 [Color1Intense]
-Color=210, 121, 121
+Color=210, 143, 121
 
 [Color2]
 Color=242, 218, 140
@@ -53,13 +53,13 @@ Color=159, 217, 140
 Color=159, 217, 140
 
 [Color5]
-Color=128, 166, 203
+Color=128, 184, 203
 
 [Color5Faint]
-Color=128, 166, 203
+Color=128, 184, 203
 
 [Color5Intense]
-Color=128, 166, 203
+Color=128, 184, 203
 
 [Color6]
 Color=209, 148, 179

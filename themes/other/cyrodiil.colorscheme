@@ -35,13 +35,13 @@ Color=64, 64, 64
 Color=64, 64, 64
 
 [Color3]
-Color=45, 45, 83
+Color=45, 83, 83
 
 [Color3Faint]
-Color=45, 45, 83
+Color=45, 83, 83
 
 [Color3Intense]
-Color=45, 45, 83
+Color=45, 83, 83
 
 [Color4]
 Color=45, 83, 45
@@ -53,40 +53,40 @@ Color=45, 83, 45
 Color=45, 83, 45
 
 [Color5]
-Color=83, 45, 83
+Color=45, 45, 83
 
 [Color5Faint]
-Color=83, 45, 83
+Color=45, 45, 83
 
 [Color5Intense]
-Color=83, 45, 83
+Color=45, 45, 83
 
 [Color6]
-Color=45, 83, 83
+Color=83, 45, 83
 
 [Color6Faint]
-Color=45, 83, 83
+Color=83, 45, 83
 
 [Color6Intense]
-Color=45, 83, 83
+Color=83, 45, 83
 
 [Color7]
-Color=89, 59, 39
+Color=33, 24, 18
 
 [Color7Faint]
-Color=89, 59, 39
+Color=33, 24, 18
 
 [Color7Intense]
-Color=89, 59, 39
+Color=33, 24, 18
 
 [Foreground]
-Color=124, 82, 54
+Color=59, 49, 43
 
 [ForegroundFaint]
-Color=124, 82, 54
+Color=59, 49, 43
 
 [ForegroundIntense]
-Color=53, 35, 23
+Color=0, 0, 0
 
 [General]
 Blur=false

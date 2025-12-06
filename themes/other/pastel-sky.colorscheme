@@ -1,20 +1,20 @@
 [Background]
-Color=36, 33, 44
+Color=56, 49, 63
 
 [BackgroundFaint]
-Color=36, 33, 44
+Color=56, 49, 63
 
 [BackgroundIntense]
-Color=83, 77, 102
+Color=107, 94, 120
 
 [Color0]
-Color=36, 33, 44
+Color=56, 49, 63
 
 [Color0Faint]
-Color=36, 33, 44
+Color=56, 49, 63
 
 [Color0Intense]
-Color=83, 77, 102
+Color=107, 94, 120
 
 [Color1]
 Color=242, 140, 140
@@ -26,22 +26,22 @@ Color=242, 140, 140
 Color=242, 140, 140
 
 [Color2]
-Color=128, 191, 255
+Color=240, 199, 117
 
 [Color2Faint]
-Color=128, 191, 255
+Color=240, 199, 117
 
 [Color2Intense]
-Color=128, 191, 255
+Color=240, 199, 117
 
 [Color3]
-Color=242, 140, 242
+Color=140, 242, 242
 
 [Color3Faint]
-Color=242, 140, 242
+Color=140, 242, 242
 
 [Color3Intense]
-Color=242, 140, 242
+Color=140, 242, 242
 
 [Color4]
 Color=191, 242, 140
@@ -53,44 +53,44 @@ Color=191, 242, 140
 Color=191, 242, 140
 
 [Color5]
-Color=240, 199, 117
+Color=128, 191, 255
 
 [Color5Faint]
-Color=240, 199, 117
+Color=128, 191, 255
 
 [Color5Intense]
-Color=240, 199, 117
+Color=128, 191, 255
 
 [Color6]
-Color=140, 242, 242
+Color=242, 140, 242
 
 [Color6Faint]
-Color=140, 242, 242
+Color=242, 140, 242
 
 [Color6Intense]
-Color=140, 242, 242
+Color=242, 140, 242
 
 [Color7]
-Color=159, 159, 223
+Color=184, 166, 201
 
 [Color7Faint]
-Color=159, 159, 223
+Color=184, 166, 201
 
 [Color7Intense]
-Color=159, 159, 223
+Color=184, 166, 201
 
 [Foreground]
-Color=130, 130, 201
+Color=184, 175, 192
 
 [ForegroundFaint]
-Color=130, 130, 201
+Color=184, 175, 192
 
 [ForegroundIntense]
-Color=194, 194, 240
+Color=209, 187, 231
 
 [General]
 Blur=false
 ColorRandomization=false
-Description=pastel-sky-dark
+Description=pastel-sky
 Opacity=1
 Wallpaper=
