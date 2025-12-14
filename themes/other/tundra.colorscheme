@@ -1,0 +1,96 @@
+[Background]
+Color=46, 66, 56
+
+[BackgroundFaint]
+Color=46, 66, 56
+
+[BackgroundIntense]
+Color=88, 117, 126
+
+[Color0]
+Color=46, 66, 56
+
+[Color0Faint]
+Color=46, 66, 56
+
+[Color0Intense]
+Color=88, 117, 126
+
+[Color1]
+Color=209, 148, 163
+
+[Color1Faint]
+Color=209, 148, 163
+
+[Color1Intense]
+Color=209, 148, 163
+
+[Color2]
+Color=209, 209, 148
+
+[Color2Faint]
+Color=209, 209, 148
+
+[Color2Intense]
+Color=209, 209, 148
+
+[Color3]
+Color=148, 209, 179
+
+[Color3Faint]
+Color=148, 209, 179
+
+[Color3Intense]
+Color=148, 209, 179
+
+[Color4]
+Color=179, 209, 148
+
+[Color4Faint]
+Color=179, 209, 148
+
+[Color4Intense]
+Color=179, 209, 148
+
+[Color5]
+Color=148, 194, 209
+
+[Color5Faint]
+Color=148, 194, 209
+
+[Color5Intense]
+Color=148, 194, 209
+
+[Color6]
+Color=209, 148, 194
+
+[Color6Faint]
+Color=209, 148, 194
+
+[Color6Intense]
+Color=209, 148, 194
+
+[Color7]
+Color=167, 192, 200
+
+[Color7Faint]
+Color=167, 192, 200
+
+[Color7Intense]
+Color=167, 192, 200
+
+[Foreground]
+Color=171, 190, 196
+
+[ForegroundFaint]
+Color=171, 190, 196
+
+[ForegroundIntense]
+Color=196, 216, 222
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=tundra
+Opacity=1
+Wallpaper=
