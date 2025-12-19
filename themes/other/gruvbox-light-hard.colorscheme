@@ -1,0 +1,96 @@
+[Background]
+Color=249, 245, 215
+
+[BackgroundFaint]
+Color=249, 245, 215
+
+[BackgroundIntense]
+Color=213, 196, 161
+
+[Color0]
+Color=249, 245, 215
+
+[Color0Faint]
+Color=249, 245, 215
+
+[Color0Intense]
+Color=213, 196, 161
+
+[Color1]
+Color=157, 0, 6
+
+[Color1Faint]
+Color=157, 0, 6
+
+[Color1Intense]
+Color=157, 0, 6
+
+[Color2]
+Color=181, 118, 20
+
+[Color2Faint]
+Color=181, 118, 20
+
+[Color2Intense]
+Color=181, 118, 20
+
+[Color3]
+Color=66, 123, 88
+
+[Color3Faint]
+Color=66, 123, 88
+
+[Color3Intense]
+Color=66, 123, 88
+
+[Color4]
+Color=121, 116, 14
+
+[Color4Faint]
+Color=121, 116, 14
+
+[Color4Intense]
+Color=121, 116, 14
+
+[Color5]
+Color=7, 102, 120
+
+[Color5Faint]
+Color=7, 102, 120
+
+[Color5Intense]
+Color=7, 102, 120
+
+[Color6]
+Color=143, 63, 113
+
+[Color6Faint]
+Color=143, 63, 113
+
+[Color6Intense]
+Color=143, 63, 113
+
+[Color7]
+Color=124, 111, 100
+
+[Color7Faint]
+Color=124, 111, 100
+
+[Color7Intense]
+Color=124, 111, 100
+
+[Foreground]
+Color=146, 131, 116
+
+[ForegroundFaint]
+Color=146, 131, 116
+
+[ForegroundIntense]
+Color=102, 92, 84
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=gruvbox-light-hard
+Opacity=1
+Wallpaper=
