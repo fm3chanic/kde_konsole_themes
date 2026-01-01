@@ -26,49 +26,49 @@ Color=0, 92, 153
 Color=0, 92, 153
 
 [Color2]
-Color=0, 0, 153
+Color=153, 0, 0
 
 [Color2Faint]
-Color=0, 0, 153
+Color=153, 0, 0
 
 [Color2Intense]
-Color=0, 0, 153
+Color=153, 0, 0
 
 [Color3]
-Color=77, 0, 153
+Color=0, 0, 153
 
 [Color3Faint]
-Color=77, 0, 153
+Color=0, 0, 153
 
 [Color3Intense]
-Color=77, 0, 153
+Color=0, 0, 153
 
 [Color4]
-Color=153, 0, 0
+Color=115, 0, 153
 
 [Color4Faint]
-Color=153, 0, 0
+Color=115, 0, 153
 
 [Color4Intense]
-Color=153, 0, 0
+Color=115, 0, 153
 
 [Color5]
-Color=115, 0, 153
+Color=153, 0, 77
 
 [Color5Faint]
-Color=115, 0, 153
+Color=153, 0, 77
 
 [Color5Intense]
-Color=115, 0, 153
+Color=153, 0, 77
 
 [Color6]
-Color=153, 0, 77
+Color=77, 0, 153
 
 [Color6Faint]
-Color=153, 0, 77
+Color=77, 0, 153
 
 [Color6Intense]
-Color=153, 0, 77
+Color=77, 0, 153
 
 [Color7]
 Color=32, 32, 96

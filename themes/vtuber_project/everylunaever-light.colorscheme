@@ -26,49 +26,49 @@ Color=64, 115, 13
 Color=64, 115, 13
 
 [Color2]
-Color=86, 19, 108
+Color=38, 13, 115
 
 [Color2Faint]
-Color=86, 19, 108
+Color=38, 13, 115
 
 [Color2Intense]
-Color=86, 19, 108
+Color=38, 13, 115
 
 [Color3]
-Color=13, 115, 64
+Color=86, 19, 108
 
 [Color3Faint]
-Color=13, 115, 64
+Color=86, 19, 108
 
 [Color3Intense]
-Color=13, 115, 64
+Color=86, 19, 108
 
 [Color4]
-Color=38, 13, 115
+Color=108, 19, 86
 
 [Color4Faint]
-Color=38, 13, 115
+Color=108, 19, 86
 
 [Color4Intense]
-Color=38, 13, 115
+Color=108, 19, 86
 
 [Color5]
-Color=108, 19, 86
+Color=13, 115, 13
 
 [Color5Faint]
-Color=108, 19, 86
+Color=13, 115, 13
 
 [Color5Intense]
-Color=108, 19, 86
+Color=13, 115, 13
 
 [Color6]
-Color=13, 115, 13
+Color=13, 115, 64
 
 [Color6Faint]
-Color=13, 115, 13
+Color=13, 115, 64
 
 [Color6Intense]
-Color=13, 115, 13
+Color=13, 115, 64
 
 [Color7]
 Color=60, 32, 96

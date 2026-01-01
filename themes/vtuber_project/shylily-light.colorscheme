@@ -26,49 +26,49 @@ Color=134, 45, 134
 Color=134, 45, 134
 
 [Color2]
-Color=36, 116, 143
+Color=45, 67, 134
 
 [Color2Faint]
-Color=36, 116, 143
+Color=45, 67, 134
 
 [Color2Intense]
-Color=36, 116, 143
+Color=45, 67, 134
 
 [Color3]
-Color=134, 45, 45
+Color=36, 116, 143
 
 [Color3Faint]
-Color=134, 45, 45
+Color=36, 116, 143
 
 [Color3Intense]
-Color=134, 45, 45
+Color=36, 116, 143
 
 [Color4]
-Color=45, 67, 134
+Color=62, 36, 143
 
 [Color4Faint]
-Color=45, 67, 134
+Color=62, 36, 143
 
 [Color4Intense]
-Color=45, 67, 134
+Color=62, 36, 143
 
 [Color5]
-Color=62, 36, 143
+Color=142, 37, 89
 
 [Color5Faint]
-Color=62, 36, 143
+Color=142, 37, 89
 
 [Color5Intense]
-Color=62, 36, 143
+Color=142, 37, 89
 
 [Color6]
-Color=142, 37, 89
+Color=134, 45, 45
 
 [Color6Faint]
-Color=142, 37, 89
+Color=134, 45, 45
 
 [Color6Intense]
-Color=142, 37, 89
+Color=134, 45, 45
 
 [Color7]
 Color=32, 51, 96

@@ -26,49 +26,49 @@ Color=186, 94, 94
 Color=186, 94, 94
 
 [Color2]
-Color=224, 195, 108
+Color=117, 186, 94
 
 [Color2Faint]
-Color=224, 195, 108
+Color=117, 186, 94
 
 [Color2Intense]
-Color=224, 195, 108
+Color=117, 186, 94
 
 [Color3]
-Color=117, 163, 163
+Color=224, 195, 108
 
 [Color3Faint]
-Color=117, 163, 163
+Color=224, 195, 108
 
 [Color3Intense]
-Color=117, 163, 163
+Color=224, 195, 108
 
 [Color4]
-Color=117, 186, 94
+Color=117, 117, 163
 
 [Color4Faint]
-Color=117, 186, 94
+Color=117, 117, 163
 
 [Color4Intense]
-Color=117, 186, 94
+Color=117, 117, 163
 
 [Color5]
-Color=117, 117, 163
+Color=186, 94, 140
 
 [Color5Faint]
-Color=117, 117, 163
+Color=186, 94, 140
 
 [Color5Intense]
-Color=117, 117, 163
+Color=186, 94, 140
 
 [Color6]
-Color=186, 94, 140
+Color=117, 163, 163
 
 [Color6Faint]
-Color=186, 94, 140
+Color=117, 163, 163
 
 [Color6Intense]
-Color=186, 94, 140
+Color=117, 163, 163
 
 [Color7]
 Color=229, 199, 138

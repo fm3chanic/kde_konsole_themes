@@ -26,49 +26,49 @@ Color=72, 72, 106
 Color=72, 72, 106
 
 [Color2]
-Color=130, 69, 48
+Color=140, 38, 116
 
 [Color2Faint]
-Color=130, 69, 48
+Color=140, 38, 116
 
 [Color2Intense]
-Color=130, 69, 48
+Color=140, 38, 116
 
 [Color3]
-Color=87, 54, 124
+Color=130, 69, 48
 
 [Color3Faint]
-Color=87, 54, 124
+Color=130, 69, 48
 
 [Color3Intense]
-Color=87, 54, 124
+Color=130, 69, 48
 
 [Color4]
-Color=140, 38, 116
+Color=147, 31, 62
 
 [Color4Faint]
-Color=140, 38, 116
+Color=147, 31, 62
 
 [Color4Intense]
-Color=140, 38, 116
+Color=147, 31, 62
 
 [Color5]
-Color=147, 31, 62
+Color=103, 76, 86
 
 [Color5Faint]
-Color=147, 31, 62
+Color=103, 76, 86
 
 [Color5Intense]
-Color=147, 31, 62
+Color=103, 76, 86
 
 [Color6]
-Color=103, 76, 86
+Color=87, 54, 124
 
 [Color6Faint]
-Color=103, 76, 86
+Color=87, 54, 124
 
 [Color6Intense]
-Color=103, 76, 86
+Color=87, 54, 124
 
 [Color7]
 Color=62, 48, 80

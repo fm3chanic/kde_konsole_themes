@@ -26,49 +26,49 @@ Color=217, 140, 140
 Color=217, 140, 140
 
 [Color2]
-Color=166, 166, 166
+Color=169, 214, 193
 
 [Color2Faint]
-Color=166, 166, 166
+Color=169, 214, 193
 
 [Color2Intense]
-Color=166, 166, 166
+Color=169, 214, 193
 
 [Color3]
-Color=148, 180, 209
+Color=166, 166, 166
 
 [Color3Faint]
-Color=148, 180, 209
+Color=166, 166, 166
 
 [Color3Intense]
-Color=148, 180, 209
+Color=166, 166, 166
 
 [Color4]
-Color=169, 214, 193
+Color=152, 152, 205
 
 [Color4Faint]
-Color=169, 214, 193
+Color=152, 152, 205
 
 [Color4Intense]
-Color=169, 214, 193
+Color=152, 152, 205
 
 [Color5]
-Color=152, 152, 205
+Color=217, 140, 159
 
 [Color5Faint]
-Color=152, 152, 205
+Color=217, 140, 159
 
 [Color5Intense]
-Color=152, 152, 205
+Color=217, 140, 159
 
 [Color6]
-Color=217, 140, 159
+Color=148, 180, 209
 
 [Color6Faint]
-Color=217, 140, 159
+Color=148, 180, 209
 
 [Color6Intense]
-Color=217, 140, 159
+Color=148, 180, 209
 
 [Color7]
 Color=223, 206, 159

@@ -26,49 +26,49 @@ Color=242, 140, 140
 Color=242, 140, 140
 
 [Color2]
-Color=240, 199, 117
+Color=191, 242, 140
 
 [Color2Faint]
-Color=240, 199, 117
+Color=191, 242, 140
 
 [Color2Intense]
-Color=240, 199, 117
+Color=191, 242, 140
 
 [Color3]
-Color=140, 242, 242
+Color=240, 199, 117
 
 [Color3Faint]
-Color=140, 242, 242
+Color=240, 199, 117
 
 [Color3Intense]
-Color=140, 242, 242
+Color=240, 199, 117
 
 [Color4]
-Color=191, 242, 140
+Color=128, 191, 255
 
 [Color4Faint]
-Color=191, 242, 140
+Color=128, 191, 255
 
 [Color4Intense]
-Color=191, 242, 140
+Color=128, 191, 255
 
 [Color5]
-Color=128, 191, 255
+Color=242, 140, 242
 
 [Color5Faint]
-Color=128, 191, 255
+Color=242, 140, 242
 
 [Color5Intense]
-Color=128, 191, 255
+Color=242, 140, 242
 
 [Color6]
-Color=242, 140, 242
+Color=140, 242, 242
 
 [Color6Faint]
-Color=242, 140, 242
+Color=140, 242, 242
 
 [Color6Intense]
-Color=242, 140, 242
+Color=140, 242, 242
 
 [Color7]
 Color=184, 166, 201

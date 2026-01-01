@@ -26,49 +26,49 @@ Color=126, 126, 27
 Color=126, 126, 27
 
 [Color2]
-Color=27, 126, 126
+Color=31, 122, 77
 
 [Color2Faint]
-Color=27, 126, 126
+Color=31, 122, 77
 
 [Color2Intense]
-Color=27, 126, 126
+Color=31, 122, 77
 
 [Color3]
-Color=138, 107, 15
+Color=27, 126, 126
 
 [Color3Faint]
-Color=138, 107, 15
+Color=27, 126, 126
 
 [Color3Intense]
-Color=138, 107, 15
+Color=27, 126, 126
 
 [Color4]
-Color=31, 122, 77
+Color=31, 89, 147
 
 [Color4Faint]
-Color=31, 122, 77
+Color=31, 89, 147
 
 [Color4Intense]
-Color=31, 122, 77
+Color=31, 89, 147
 
 [Color5]
-Color=31, 89, 147
+Color=147, 89, 31
 
 [Color5Faint]
-Color=31, 89, 147
+Color=147, 89, 31
 
 [Color5Intense]
-Color=31, 89, 147
+Color=147, 89, 31
 
 [Color6]
-Color=147, 89, 31
+Color=138, 107, 15
 
 [Color6Faint]
-Color=147, 89, 31
+Color=138, 107, 15
 
 [Color6Intense]
-Color=147, 89, 31
+Color=138, 107, 15
 
 [Color7]
 Color=60, 35, 92

@@ -26,49 +26,49 @@ Color=135, 18, 82
 Color=135, 18, 82
 
 [Color2]
-Color=153, 0, 153
+Color=146, 25, 7
 
 [Color2Faint]
-Color=153, 0, 153
+Color=146, 25, 7
 
 [Color2Intense]
-Color=153, 0, 153
+Color=146, 25, 7
 
 [Color3]
-Color=149, 4, 60
+Color=153, 0, 153
 
 [Color3Faint]
-Color=149, 4, 60
+Color=153, 0, 153
 
 [Color3Intense]
-Color=149, 4, 60
+Color=153, 0, 153
 
 [Color4]
-Color=146, 25, 7
+Color=153, 115, 0
 
 [Color4Faint]
-Color=146, 25, 7
+Color=153, 115, 0
 
 [Color4Intense]
-Color=146, 25, 7
+Color=153, 115, 0
 
 [Color5]
-Color=153, 115, 0
+Color=18, 57, 135
 
 [Color5Faint]
-Color=153, 115, 0
+Color=18, 57, 135
 
 [Color5Intense]
-Color=153, 115, 0
+Color=18, 57, 135
 
 [Color6]
-Color=18, 57, 135
+Color=149, 4, 60
 
 [Color6Faint]
-Color=18, 57, 135
+Color=149, 4, 60
 
 [Color6Intense]
-Color=18, 57, 135
+Color=149, 4, 60
 
 [Color7]
 Color=96, 57, 78

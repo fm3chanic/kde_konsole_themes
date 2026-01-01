@@ -26,49 +26,49 @@ Color=142, 37, 37
 Color=142, 37, 37
 
 [Color2]
-Color=147, 118, 31
+Color=27, 152, 58
 
 [Color2Faint]
-Color=147, 118, 31
+Color=27, 152, 58
 
 [Color2Intense]
-Color=147, 118, 31
+Color=27, 152, 58
 
 [Color3]
-Color=36, 143, 143
+Color=147, 118, 31
 
 [Color3Faint]
-Color=36, 143, 143
+Color=147, 118, 31
 
 [Color3Intense]
-Color=36, 143, 143
+Color=147, 118, 31
 
 [Color4]
-Color=27, 152, 58
+Color=27, 89, 152
 
 [Color4Faint]
-Color=27, 152, 58
+Color=27, 89, 152
 
 [Color4Intense]
-Color=27, 152, 58
+Color=27, 89, 152
 
 [Color5]
-Color=27, 89, 152
+Color=37, 37, 142
 
 [Color5Faint]
-Color=27, 89, 152
+Color=37, 37, 142
 
 [Color5Intense]
-Color=27, 89, 152
+Color=37, 37, 142
 
 [Color6]
-Color=37, 37, 142
+Color=36, 143, 143
 
 [Color6Faint]
-Color=37, 37, 142
+Color=36, 143, 143
 
 [Color6Intense]
-Color=37, 37, 142
+Color=36, 143, 143
 
 [Color7]
 Color=102, 37, 25

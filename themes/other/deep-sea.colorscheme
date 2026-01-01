@@ -26,49 +26,49 @@ Color=233, 99, 166
 Color=233, 99, 166
 
 [Color2]
-Color=233, 233, 99
+Color=166, 233, 99
 
 [Color2Faint]
-Color=233, 233, 99
+Color=166, 233, 99
 
 [Color2Intense]
-Color=233, 233, 99
+Color=166, 233, 99
 
 [Color3]
-Color=99, 233, 166
+Color=233, 233, 99
 
 [Color3Faint]
-Color=99, 233, 166
+Color=233, 233, 99
 
 [Color3Intense]
-Color=99, 233, 166
+Color=233, 233, 99
 
 [Color4]
-Color=166, 233, 99
+Color=99, 199, 233
 
 [Color4Faint]
-Color=166, 233, 99
+Color=99, 199, 233
 
 [Color4Intense]
-Color=166, 233, 99
+Color=99, 199, 233
 
 [Color5]
-Color=99, 199, 233
+Color=121, 121, 210
 
 [Color5Faint]
-Color=99, 199, 233
+Color=121, 121, 210
 
 [Color5Intense]
-Color=99, 199, 233
+Color=121, 121, 210
 
 [Color6]
-Color=121, 121, 210
+Color=99, 233, 166
 
 [Color6Faint]
-Color=121, 121, 210
+Color=99, 233, 166
 
 [Color6Intense]
-Color=121, 121, 210
+Color=99, 233, 166
 
 [Color7]
 Color=156, 179, 201

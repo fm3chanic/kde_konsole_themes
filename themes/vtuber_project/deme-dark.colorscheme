@@ -26,49 +26,49 @@ Color=105, 105, 226
 Color=105, 105, 226
 
 [Color2]
-Color=242, 204, 90
+Color=243, 166, 88
 
 [Color2Faint]
-Color=242, 204, 90
+Color=243, 166, 88
 
 [Color2Intense]
-Color=242, 204, 90
+Color=243, 166, 88
 
 [Color3]
-Color=166, 105, 226
+Color=242, 204, 90
 
 [Color3Faint]
-Color=166, 105, 226
+Color=242, 204, 90
 
 [Color3Intense]
-Color=166, 105, 226
+Color=242, 204, 90
 
 [Color4]
-Color=243, 166, 88
+Color=242, 128, 90
 
 [Color4Faint]
-Color=243, 166, 88
+Color=242, 128, 90
 
 [Color4Intense]
-Color=243, 166, 88
+Color=242, 128, 90
 
 [Color5]
-Color=242, 128, 90
+Color=226, 105, 226
 
 [Color5Faint]
-Color=242, 128, 90
+Color=226, 105, 226
 
 [Color5Intense]
-Color=242, 128, 90
+Color=226, 105, 226
 
 [Color6]
-Color=226, 105, 226
+Color=166, 105, 226
 
 [Color6Faint]
-Color=226, 105, 226
+Color=166, 105, 226
 
 [Color6Intense]
-Color=226, 105, 226
+Color=166, 105, 226
 
 [Color7]
 Color=224, 179, 133

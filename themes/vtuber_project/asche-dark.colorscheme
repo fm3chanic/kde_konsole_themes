@@ -26,49 +26,49 @@ Color=130, 201, 166
 Color=130, 201, 166
 
 [Color2]
-Color=184, 175, 148
+Color=201, 167, 130
 
 [Color2Faint]
-Color=184, 175, 148
+Color=201, 167, 130
 
 [Color2Intense]
-Color=184, 175, 148
+Color=201, 167, 130
 
 [Color3]
-Color=166, 201, 130
+Color=184, 175, 148
 
 [Color3Faint]
-Color=166, 201, 130
+Color=184, 175, 148
 
 [Color3Intense]
-Color=166, 201, 130
+Color=184, 175, 148
 
 [Color4]
-Color=201, 167, 130
+Color=184, 148, 148
 
 [Color4Faint]
-Color=201, 167, 130
+Color=184, 148, 148
 
 [Color4Intense]
-Color=201, 167, 130
+Color=184, 148, 148
 
 [Color5]
-Color=184, 148, 148
+Color=130, 201, 130
 
 [Color5Faint]
-Color=184, 148, 148
+Color=130, 201, 130
 
 [Color5Intense]
-Color=184, 148, 148
+Color=130, 201, 130
 
 [Color6]
-Color=130, 201, 130
+Color=166, 201, 130
 
 [Color6Faint]
-Color=130, 201, 130
+Color=166, 201, 130
 
 [Color6Intense]
-Color=130, 201, 130
+Color=166, 201, 130
 
 [Color7]
 Color=173, 190, 167

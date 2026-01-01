@@ -26,49 +26,49 @@ Color=146, 42, 7
 Color=146, 42, 7
 
 [Color2]
-Color=145, 8, 111
+Color=145, 8, 42
 
 [Color2Faint]
-Color=145, 8, 111
+Color=145, 8, 42
 
 [Color2Intense]
-Color=145, 8, 111
+Color=145, 8, 42
 
 [Color3]
-Color=145, 111, 8
+Color=145, 8, 111
 
 [Color3Faint]
-Color=145, 111, 8
+Color=145, 8, 111
 
 [Color3Intense]
-Color=145, 111, 8
+Color=145, 8, 111
 
 [Color4]
-Color=145, 8, 42
+Color=111, 8, 145
 
 [Color4Faint]
-Color=145, 8, 42
+Color=111, 8, 145
 
 [Color4Intense]
-Color=145, 8, 42
+Color=111, 8, 145
 
 [Color5]
-Color=111, 8, 145
+Color=145, 77, 8
 
 [Color5Faint]
-Color=111, 8, 145
+Color=145, 77, 8
 
 [Color5Intense]
-Color=111, 8, 145
+Color=145, 77, 8
 
 [Color6]
-Color=145, 77, 8
+Color=145, 111, 8
 
 [Color6Faint]
-Color=145, 77, 8
+Color=145, 111, 8
 
 [Color6Intense]
-Color=145, 77, 8
+Color=145, 111, 8
 
 [Color7]
 Color=96, 32, 72

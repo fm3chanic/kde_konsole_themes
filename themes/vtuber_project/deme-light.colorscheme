@@ -26,49 +26,49 @@ Color=24, 24, 129
 Color=24, 24, 129
 
 [Color2]
-Color=142, 109, 11
+Color=143, 77, 10
 
 [Color2Faint]
-Color=142, 109, 11
+Color=143, 77, 10
 
 [Color2Intense]
-Color=142, 109, 11
+Color=143, 77, 10
 
 [Color3]
-Color=77, 24, 129
+Color=142, 109, 11
 
 [Color3Faint]
-Color=77, 24, 129
+Color=142, 109, 11
 
 [Color3Intense]
-Color=77, 24, 129
+Color=142, 109, 11
 
 [Color4]
-Color=143, 77, 10
+Color=142, 44, 11
 
 [Color4Faint]
-Color=143, 77, 10
+Color=142, 44, 11
 
 [Color4Intense]
-Color=143, 77, 10
+Color=142, 44, 11
 
 [Color5]
-Color=142, 44, 11
+Color=129, 24, 129
 
 [Color5Faint]
-Color=142, 44, 11
+Color=129, 24, 129
 
 [Color5Intense]
-Color=142, 44, 11
+Color=129, 24, 129
 
 [Color6]
-Color=129, 24, 129
+Color=77, 24, 129
 
 [Color6Faint]
-Color=129, 24, 129
+Color=77, 24, 129
 
 [Color6Intense]
-Color=129, 24, 129
+Color=77, 24, 129
 
 [Color7]
 Color=89, 52, 38

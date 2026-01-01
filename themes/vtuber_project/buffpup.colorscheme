@@ -26,49 +26,49 @@ Color=145, 8, 8
 Color=145, 8, 8
 
 [Color2]
-Color=145, 42, 8
+Color=145, 113, 8
 
 [Color2Faint]
-Color=145, 42, 8
+Color=145, 113, 8
 
 [Color2Intense]
-Color=145, 42, 8
+Color=145, 113, 8
 
 [Color3]
-Color=131, 22, 104
+Color=145, 42, 8
 
 [Color3Faint]
-Color=131, 22, 104
+Color=145, 42, 8
 
 [Color3Intense]
-Color=131, 22, 104
+Color=145, 42, 8
 
 [Color4]
-Color=145, 113, 8
+Color=131, 22, 49
 
 [Color4Faint]
-Color=145, 113, 8
+Color=131, 22, 49
 
 [Color4Intense]
-Color=145, 113, 8
+Color=131, 22, 49
 
 [Color5]
-Color=131, 22, 49
+Color=104, 22, 131
 
 [Color5Faint]
-Color=131, 22, 49
+Color=104, 22, 131
 
 [Color5Intense]
-Color=131, 22, 49
+Color=104, 22, 131
 
 [Color6]
-Color=104, 22, 131
+Color=131, 22, 104
 
 [Color6Faint]
-Color=104, 22, 131
+Color=131, 22, 104
 
 [Color6Intense]
-Color=104, 22, 131
+Color=131, 22, 104
 
 [Color7]
 Color=102, 42, 25

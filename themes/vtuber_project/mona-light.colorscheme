@@ -26,49 +26,49 @@ Color=138, 15, 138
 Color=138, 15, 138
 
 [Color2]
-Color=138, 77, 15
+Color=138, 107, 15
 
 [Color2Faint]
-Color=138, 77, 15
+Color=138, 107, 15
 
 [Color2Intense]
-Color=138, 77, 15
+Color=138, 107, 15
 
 [Color3]
-Color=138, 15, 46
+Color=138, 77, 15
 
 [Color3Faint]
-Color=138, 15, 46
+Color=138, 77, 15
 
 [Color3Intense]
-Color=138, 15, 46
+Color=138, 77, 15
 
 [Color4]
-Color=138, 107, 15
+Color=138, 46, 15
 
 [Color4Faint]
-Color=138, 107, 15
+Color=138, 46, 15
 
 [Color4Intense]
-Color=138, 107, 15
+Color=138, 46, 15
 
 [Color5]
-Color=138, 46, 15
+Color=138, 15, 77
 
 [Color5Faint]
-Color=138, 46, 15
+Color=138, 15, 77
 
 [Color5Intense]
-Color=138, 46, 15
+Color=138, 15, 77
 
 [Color6]
-Color=138, 15, 77
+Color=138, 15, 46
 
 [Color6Faint]
-Color=138, 15, 77
+Color=138, 15, 46
 
 [Color6Intense]
-Color=138, 15, 77
+Color=138, 15, 46
 
 [Color7]
 Color=96, 32, 36

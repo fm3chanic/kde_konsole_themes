@@ -34,7 +34,7 @@ def main(filename):
     tab1_values = tab1.iloc[0:9,1].tolist()
 
     tab2 = df[1]
-    tab2_values = tab2.iloc[0:7,1].tolist()
+    tab2_values = tab2.iloc[0:6,1].tolist()
 
     # reading the template
     f = open('konsole_theme_template.colorscheme', 'r', encoding='utf-8')

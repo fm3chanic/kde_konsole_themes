@@ -26,49 +26,49 @@ Color=108, 154, 224
 Color=108, 154, 224
 
 [Color2]
-Color=228, 103, 228
+Color=228, 103, 166
 
 [Color2Faint]
-Color=228, 103, 228
+Color=228, 103, 166
 
 [Color2Intense]
-Color=228, 103, 228
+Color=228, 103, 166
 
 [Color3]
-Color=103, 228, 228
+Color=228, 103, 228
 
 [Color3Faint]
-Color=103, 228, 228
+Color=228, 103, 228
 
 [Color3Intense]
-Color=103, 228, 228
+Color=228, 103, 228
 
 [Color4]
-Color=228, 103, 166
+Color=166, 103, 228
 
 [Color4Faint]
-Color=228, 103, 166
+Color=166, 103, 228
 
 [Color4Intense]
-Color=228, 103, 166
+Color=166, 103, 228
 
 [Color5]
-Color=166, 103, 228
+Color=103, 228, 166
 
 [Color5Faint]
-Color=166, 103, 228
+Color=103, 228, 166
 
 [Color5Intense]
-Color=166, 103, 228
+Color=103, 228, 166
 
 [Color6]
-Color=103, 228, 166
+Color=103, 228, 228
 
 [Color6Faint]
-Color=103, 228, 166
+Color=103, 228, 228
 
 [Color6Intense]
-Color=103, 228, 166
+Color=103, 228, 228
 
 [Color7]
 Color=190, 167, 190

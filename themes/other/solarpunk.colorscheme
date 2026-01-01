@@ -26,49 +26,49 @@ Color=235, 71, 74
 Color=235, 71, 74
 
 [Color2]
-Color=235, 186, 71
+Color=175, 224, 133
 
 [Color2Faint]
-Color=235, 186, 71
+Color=175, 224, 133
 
 [Color2Intense]
-Color=235, 186, 71
+Color=175, 224, 133
 
 [Color3]
-Color=97, 209, 177
+Color=235, 186, 71
 
 [Color3Faint]
-Color=97, 209, 177
+Color=235, 186, 71
 
 [Color3Intense]
-Color=97, 209, 177
+Color=235, 186, 71
 
 [Color4]
-Color=175, 224, 133
+Color=97, 166, 209
 
 [Color4Faint]
-Color=175, 224, 133
+Color=97, 166, 209
 
 [Color4Intense]
-Color=175, 224, 133
+Color=97, 166, 209
 
 [Color5]
-Color=97, 166, 209
+Color=240, 243, 189
 
 [Color5Faint]
-Color=97, 166, 209
+Color=240, 243, 189
 
 [Color5Intense]
-Color=97, 166, 209
+Color=240, 243, 189
 
 [Color6]
-Color=240, 243, 189
+Color=97, 209, 177
 
 [Color6Faint]
-Color=240, 243, 189
+Color=97, 209, 177
 
 [Color6Intense]
-Color=240, 243, 189
+Color=97, 209, 177
 
 [Color7]
 Color=213, 216, 202

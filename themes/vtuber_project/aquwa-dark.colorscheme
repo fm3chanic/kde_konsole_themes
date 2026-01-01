@@ -26,49 +26,49 @@ Color=133, 133, 224
 Color=133, 133, 224
 
 [Color2]
-Color=132, 179, 225
+Color=133, 224, 224
 
 [Color2Faint]
-Color=132, 179, 225
+Color=133, 224, 224
 
 [Color2Intense]
-Color=132, 179, 225
+Color=133, 224, 224
 
 [Color3]
-Color=179, 133, 224
+Color=132, 179, 225
 
 [Color3Faint]
-Color=179, 133, 224
+Color=132, 179, 225
 
 [Color3Intense]
-Color=179, 133, 224
+Color=132, 179, 225
 
 [Color4]
-Color=133, 224, 224
+Color=224, 133, 179
 
 [Color4Faint]
-Color=133, 224, 224
+Color=224, 133, 179
 
 [Color4Intense]
-Color=133, 224, 224
+Color=224, 133, 179
 
 [Color5]
-Color=224, 133, 179
+Color=224, 133, 224
 
 [Color5Faint]
-Color=224, 133, 179
+Color=224, 133, 224
 
 [Color5Intense]
-Color=224, 133, 179
+Color=224, 133, 224
 
 [Color6]
-Color=224, 133, 224
+Color=179, 133, 224
 
 [Color6Faint]
-Color=224, 133, 224
+Color=179, 133, 224
 
 [Color6Intense]
-Color=224, 133, 224
+Color=179, 133, 224
 
 [Color7]
 Color=168, 159, 223

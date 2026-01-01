@@ -26,49 +26,49 @@ Color=118, 118, 239
 Color=118, 118, 239
 
 [Color2]
-Color=224, 133, 224
+Color=179, 118, 239
 
 [Color2Faint]
-Color=224, 133, 224
+Color=179, 118, 239
 
 [Color2Intense]
-Color=224, 133, 224
+Color=179, 118, 239
 
 [Color3]
-Color=118, 239, 239
+Color=224, 133, 224
 
 [Color3Faint]
-Color=118, 239, 239
+Color=224, 133, 224
 
 [Color3Intense]
-Color=118, 239, 239
+Color=224, 133, 224
 
 [Color4]
-Color=179, 118, 239
+Color=224, 133, 179
 
 [Color4Faint]
-Color=179, 118, 239
+Color=224, 133, 179
 
 [Color4Intense]
-Color=179, 118, 239
+Color=224, 133, 179
 
 [Color5]
-Color=224, 133, 179
+Color=118, 179, 239
 
 [Color5Faint]
-Color=224, 133, 179
+Color=118, 179, 239
 
 [Color5Intense]
-Color=224, 133, 179
+Color=118, 179, 239
 
 [Color6]
-Color=118, 179, 239
+Color=118, 239, 239
 
 [Color6Faint]
-Color=118, 179, 239
+Color=118, 239, 239
 
 [Color6Intense]
-Color=118, 179, 239
+Color=118, 239, 239
 
 [Color7]
 Color=237, 212, 146

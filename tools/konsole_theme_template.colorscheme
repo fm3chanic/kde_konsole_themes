@@ -26,49 +26,49 @@ Color=Syn1
 Color=Syn1
 
 [Color2]
-Color=Syn2
+Color=Syn4
 
 [Color2Faint]
-Color=Syn2
+Color=Syn4
 
 [Color2Intense]
-Color=Syn2
+Color=Syn4
 
 [Color3]
-Color=Syn3
+Color=Syn2
 
 [Color3Faint]
-Color=Syn3
+Color=Syn2
 
 [Color3Intense]
-Color=Syn3
+Color=Syn2
 
 [Color4]
-Color=Syn4
+Color=Syn5
 
 [Color4Faint]
-Color=Syn4
+Color=Syn5
 
 [Color4Intense]
-Color=Syn4
+Color=Syn5
 
 [Color5]
-Color=Syn5
+Color=Syn6
 
 [Color5Faint]
-Color=Syn5
+Color=Syn6
 
 [Color5Intense]
-Color=Syn5
+Color=Syn6
 
 [Color6]
-Color=Syn6
+Color=Syn3
 
 [Color6Faint]
-Color=Syn6
+Color=Syn3
 
 [Color6Intense]
-Color=Syn6
+Color=Syn3
 
 [Color7]
 Color=ForeGround2

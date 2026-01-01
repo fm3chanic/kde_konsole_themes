@@ -26,49 +26,49 @@ Color=27, 89, 152
 Color=27, 89, 152
 
 [Color2]
-Color=152, 27, 152
+Color=108, 27, 152
 
 [Color2Faint]
-Color=152, 27, 152
+Color=108, 27, 152
 
 [Color2Intense]
-Color=152, 27, 152
+Color=108, 27, 152
 
 [Color3]
-Color=54, 125, 106
+Color=152, 27, 152
 
 [Color3Faint]
-Color=54, 125, 106
+Color=152, 27, 152
 
 [Color3Intense]
-Color=54, 125, 106
+Color=152, 27, 152
 
 [Color4]
-Color=108, 27, 152
+Color=66, 27, 152
 
 [Color4Faint]
-Color=108, 27, 152
+Color=66, 27, 152
 
 [Color4Intense]
-Color=108, 27, 152
+Color=66, 27, 152
 
 [Color5]
-Color=66, 27, 152
+Color=27, 152, 152
 
 [Color5Faint]
-Color=66, 27, 152
+Color=27, 152, 152
 
 [Color5Intense]
-Color=66, 27, 152
+Color=27, 152, 152
 
 [Color6]
-Color=27, 152, 152
+Color=54, 125, 106
 
 [Color6Faint]
-Color=27, 152, 152
+Color=54, 125, 106
 
 [Color6Intense]
-Color=27, 152, 152
+Color=54, 125, 106
 
 [Color7]
 Color=75, 32, 96
