@@ -1,0 +1,96 @@
+[Background]
+Color=36, 34, 42
+
+[BackgroundFaint]
+Color=36, 34, 42
+
+[BackgroundIntense]
+Color=84, 79, 99
+
+[Color0]
+Color=36, 34, 42
+
+[Color0Faint]
+Color=36, 34, 42
+
+[Color0Intense]
+Color=84, 79, 99
+
+[Color1]
+Color=248, 109, 109
+
+[Color1Faint]
+Color=248, 109, 109
+
+[Color1Intense]
+Color=248, 109, 109
+
+[Color2]
+Color=134, 249, 191
+
+[Color2Faint]
+Color=134, 249, 191
+
+[Color2Intense]
+Color=134, 249, 191
+
+[Color3]
+Color=255, 170, 128
+
+[Color3Faint]
+Color=255, 170, 128
+
+[Color3Intense]
+Color=255, 170, 128
+
+[Color4]
+Color=191, 159, 223
+
+[Color4Faint]
+Color=191, 159, 223
+
+[Color4Intense]
+Color=191, 159, 223
+
+[Color5]
+Color=255, 153, 204
+
+[Color5Faint]
+Color=255, 153, 204
+
+[Color5Intense]
+Color=255, 153, 204
+
+[Color6]
+Color=179, 255, 255
+
+[Color6Faint]
+Color=179, 255, 255
+
+[Color6Intense]
+Color=179, 255, 255
+
+[Color7]
+Color=188, 184, 198
+
+[Color7Faint]
+Color=188, 184, 198
+
+[Color7Intense]
+Color=188, 184, 198
+
+[Foreground]
+Color=161, 156, 176
+
+[ForegroundFaint]
+Color=161, 156, 176
+
+[ForegroundIntense]
+Color=215, 213, 221
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=nightmare
+Opacity=1
+Wallpaper=
