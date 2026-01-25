@@ -1,0 +1,96 @@
+[Background]
+Color=31, 33, 45
+
+[BackgroundFaint]
+Color=31, 33, 45
+
+[BackgroundIntense]
+Color=62, 71, 116
+
+[Color0]
+Color=31, 33, 45
+
+[Color0Faint]
+Color=31, 33, 45
+
+[Color0Intense]
+Color=62, 71, 116
+
+[Color1]
+Color=240, 168, 222
+
+[Color1Faint]
+Color=240, 168, 222
+
+[Color1Intense]
+Color=240, 168, 222
+
+[Color2]
+Color=190, 215, 117
+
+[Color2Faint]
+Color=190, 215, 117
+
+[Color2Intense]
+Color=190, 215, 117
+
+[Color3]
+Color=255, 170, 128
+
+[Color3Faint]
+Color=255, 170, 128
+
+[Color3Intense]
+Color=255, 170, 128
+
+[Color4]
+Color=150, 191, 233
+
+[Color4Faint]
+Color=150, 191, 233
+
+[Color4Intense]
+Color=150, 191, 233
+
+[Color5]
+Color=168, 144, 213
+
+[Color5Faint]
+Color=168, 144, 213
+
+[Color5Intense]
+Color=168, 144, 213
+
+[Color6]
+Color=136, 221, 200
+
+[Color6Faint]
+Color=136, 221, 200
+
+[Color6Intense]
+Color=136, 221, 200
+
+[Color7]
+Color=166, 173, 217
+
+[Color7Faint]
+Color=166, 173, 217
+
+[Color7Intense]
+Color=166, 173, 217
+
+[Foreground]
+Color=139, 147, 193
+
+[ForegroundFaint]
+Color=139, 147, 193
+
+[ForegroundIntense]
+Color=198, 203, 236
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=cyberstorm
+Opacity=1
+Wallpaper=
