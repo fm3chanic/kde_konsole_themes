@@ -1,0 +1,96 @@
+[Background]
+Color=205, 228, 205
+
+[BackgroundFaint]
+Color=205, 228, 205
+
+[BackgroundIntense]
+Color=152, 179, 152
+
+[Color0]
+Color=205, 228, 205
+
+[Color0Faint]
+Color=205, 228, 205
+
+[Color0Intense]
+Color=152, 179, 152
+
+[Color1]
+Color=172, 57, 88
+
+[Color1Faint]
+Color=172, 57, 88
+
+[Color1Intense]
+Color=172, 57, 88
+
+[Color2]
+Color=57, 172, 86
+
+[Color2Faint]
+Color=57, 172, 86
+
+[Color2Intense]
+Color=57, 172, 86
+
+[Color3]
+Color=172, 172, 57
+
+[Color3Faint]
+Color=172, 172, 57
+
+[Color3Intense]
+Color=172, 172, 57
+
+[Color4]
+Color=57, 143, 172
+
+[Color4Faint]
+Color=57, 143, 172
+
+[Color4Intense]
+Color=57, 143, 172
+
+[Color5]
+Color=115, 69, 161
+
+[Color5Faint]
+Color=115, 69, 161
+
+[Color5Intense]
+Color=115, 69, 161
+
+[Color6]
+Color=57, 172, 143
+
+[Color6Faint]
+Color=57, 172, 143
+
+[Color6Intense]
+Color=57, 172, 143
+
+[Color7]
+Color=54, 73, 54
+
+[Color7Faint]
+Color=54, 73, 54
+
+[Color7Intense]
+Color=54, 73, 54
+
+[Foreground]
+Color=75, 102, 75
+
+[ForegroundFaint]
+Color=75, 102, 75
+
+[ForegroundIntense]
+Color=32, 43, 32
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=bamboo
+Opacity=1
+Wallpaper=
