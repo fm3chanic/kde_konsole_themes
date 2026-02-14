@@ -1,0 +1,96 @@
+[Background]
+Color=33, 33, 44
+
+[BackgroundFaint]
+Color=33, 33, 44
+
+[BackgroundIntense]
+Color=62, 89, 116
+
+[Color0]
+Color=33, 33, 44
+
+[Color0Faint]
+Color=33, 33, 44
+
+[Color0Intense]
+Color=62, 89, 116
+
+[Color1]
+Color=204, 102, 102
+
+[Color1Faint]
+Color=204, 102, 102
+
+[Color1Intense]
+Color=204, 102, 102
+
+[Color2]
+Color=153, 204, 102
+
+[Color2Faint]
+Color=153, 204, 102
+
+[Color2Intense]
+Color=153, 204, 102
+
+[Color3]
+Color=237, 166, 94
+
+[Color3Faint]
+Color=237, 166, 94
+
+[Color3Intense]
+Color=237, 166, 94
+
+[Color4]
+Color=121, 166, 210
+
+[Color4Faint]
+Color=121, 166, 210
+
+[Color4Intense]
+Color=121, 166, 210
+
+[Color5]
+Color=166, 130, 201
+
+[Color5Faint]
+Color=166, 130, 201
+
+[Color5Intense]
+Color=166, 130, 201
+
+[Color6]
+Color=121, 210, 210
+
+[Color6Faint]
+Color=121, 210, 210
+
+[Color6Intense]
+Color=121, 210, 210
+
+[Color7]
+Color=182, 182, 200
+
+[Color7Faint]
+Color=182, 182, 200
+
+[Color7Intense]
+Color=182, 182, 200
+
+[Foreground]
+Color=153, 153, 178
+
+[ForegroundFaint]
+Color=153, 153, 178
+
+[ForegroundIntense]
+Color=211, 211, 222
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=team-plasma
+Opacity=1
+Wallpaper=
