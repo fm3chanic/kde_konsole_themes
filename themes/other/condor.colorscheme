@@ -1,0 +1,96 @@
+[Background]
+Color=63, 51, 46
+
+[BackgroundFaint]
+Color=63, 51, 46
+
+[BackgroundIntense]
+Color=76, 119, 140
+
+[Color0]
+Color=63, 51, 46
+
+[Color0Faint]
+Color=63, 51, 46
+
+[Color0Intense]
+Color=76, 119, 140
+
+[Color1]
+Color=225, 134, 171
+
+[Color1Faint]
+Color=225, 134, 171
+
+[Color1Intense]
+Color=225, 134, 171
+
+[Color2]
+Color=195, 225, 134
+
+[Color2Faint]
+Color=195, 225, 134
+
+[Color2Intense]
+Color=195, 225, 134
+
+[Color3]
+Color=232, 170, 127
+
+[Color3Faint]
+Color=232, 170, 127
+
+[Color3Intense]
+Color=232, 170, 127
+
+[Color4]
+Color=134, 172, 225
+
+[Color4Faint]
+Color=134, 172, 225
+
+[Color4Intense]
+Color=134, 172, 225
+
+[Color5]
+Color=162, 134, 225
+
+[Color5Faint]
+Color=162, 134, 225
+
+[Color5Intense]
+Color=162, 134, 225
+
+[Color6]
+Color=134, 225, 225
+
+[Color6Faint]
+Color=134, 225, 225
+
+[Color6Intense]
+Color=134, 225, 225
+
+[Color7]
+Color=161, 176, 207
+
+[Color7Faint]
+Color=161, 176, 207
+
+[Color7Intense]
+Color=161, 176, 207
+
+[Foreground]
+Color=173, 180, 195
+
+[ForegroundFaint]
+Color=173, 180, 195
+
+[ForegroundIntense]
+Color=194, 204, 224
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=condor
+Opacity=1
+Wallpaper=
