@@ -1,0 +1,96 @@
+[Background]
+Color=232, 227, 202
+
+[BackgroundFaint]
+Color=232, 227, 202
+
+[BackgroundIntense]
+Color=157, 175, 175
+
+[Color0]
+Color=232, 227, 202
+
+[Color0Faint]
+Color=232, 227, 202
+
+[Color0Intense]
+Color=157, 175, 175
+
+[Color1]
+Color=155, 75, 95
+
+[Color1Faint]
+Color=155, 75, 95
+
+[Color1Intense]
+Color=155, 75, 95
+
+[Color2]
+Color=135, 155, 75
+
+[Color2Faint]
+Color=135, 155, 75
+
+[Color2Intense]
+Color=135, 155, 75
+
+[Color3]
+Color=161, 92, 69
+
+[Color3Faint]
+Color=161, 92, 69
+
+[Color3Intense]
+Color=161, 92, 69
+
+[Color4]
+Color=80, 115, 149
+
+[Color4Faint]
+Color=80, 115, 149
+
+[Color4Intense]
+Color=80, 115, 149
+
+[Color5]
+Color=115, 86, 143
+
+[Color5Faint]
+Color=115, 86, 143
+
+[Color5Intense]
+Color=115, 86, 143
+
+[Color6]
+Color=86, 143, 143
+
+[Color6Faint]
+Color=86, 143, 143
+
+[Color6Intense]
+Color=86, 143, 143
+
+[Color7]
+Color=57, 70, 70
+
+[Color7Faint]
+Color=57, 70, 70
+
+[Color7Intense]
+Color=57, 70, 70
+
+[Foreground]
+Color=80, 98, 98
+
+[ForegroundFaint]
+Color=80, 98, 98
+
+[ForegroundIntense]
+Color=34, 42, 42
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=adeptus-mechanicus-bone
+Opacity=1
+Wallpaper=

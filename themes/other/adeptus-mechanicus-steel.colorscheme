@@ -1,20 +1,20 @@
 [Background]
-Color=50, 30, 27
+Color=50, 62, 62
 
 [BackgroundFaint]
-Color=50, 30, 27
+Color=50, 62, 62
 
 [BackgroundIntense]
-Color=85, 89, 94
+Color=129, 122, 85
 
 [Color0]
-Color=50, 30, 27
+Color=50, 62, 62
 
 [Color0Faint]
-Color=50, 30, 27
+Color=50, 62, 62
 
 [Color0Intense]
-Color=85, 89, 94
+Color=129, 122, 85
 
 [Color1]
 Color=197, 135, 150
@@ -71,26 +71,26 @@ Color=159, 198, 198
 Color=159, 198, 198
 
 [Color7]
-Color=182, 191, 201
+Color=212, 203, 155
 
 [Color7Faint]
-Color=182, 191, 201
+Color=212, 203, 155
 
 [Color7Intense]
-Color=182, 191, 201
+Color=212, 203, 155
 
 [Foreground]
-Color=157, 165, 175
+Color=198, 193, 169
 
 [ForegroundFaint]
-Color=157, 165, 175
+Color=198, 193, 169
 
 [ForegroundIntense]
-Color=209, 216, 224
+Color=227, 221, 191
 
 [General]
 Blur=false
 ColorRandomization=false
-Description=adeptus-mechanicus-dark
+Description=adeptus-mechanicus-steel
 Opacity=1
 Wallpaper=
