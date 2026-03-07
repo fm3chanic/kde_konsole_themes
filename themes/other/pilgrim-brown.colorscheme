@@ -1,0 +1,96 @@
+[Background]
+Color=47, 57, 65
+
+[BackgroundFaint]
+Color=47, 57, 65
+
+[BackgroundIntense]
+Color=125, 102, 90
+
+[Color0]
+Color=47, 57, 65
+
+[Color0Faint]
+Color=47, 57, 65
+
+[Color0Intense]
+Color=125, 102, 90
+
+[Color1]
+Color=202, 129, 146
+
+[Color1Faint]
+Color=202, 129, 146
+
+[Color1Intense]
+Color=202, 129, 146
+
+[Color2]
+Color=183, 201, 129
+
+[Color2Faint]
+Color=183, 201, 129
+
+[Color2Intense]
+Color=183, 201, 129
+
+[Color3]
+Color=215, 153, 92
+
+[Color3Faint]
+Color=215, 153, 92
+
+[Color3Intense]
+Color=215, 153, 92
+
+[Color4]
+Color=131, 130, 202
+
+[Color4Faint]
+Color=131, 130, 202
+
+[Color4Intense]
+Color=131, 130, 202
+
+[Color5]
+Color=203, 134, 197
+
+[Color5Faint]
+Color=203, 134, 197
+
+[Color5Intense]
+Color=203, 134, 197
+
+[Color6]
+Color=129, 201, 177
+
+[Color6Faint]
+Color=129, 201, 177
+
+[Color6Intense]
+Color=129, 201, 177
+
+[Color7]
+Color=207, 176, 161
+
+[Color7Faint]
+Color=207, 176, 161
+
+[Color7Intense]
+Color=207, 176, 161
+
+[Foreground]
+Color=195, 180, 173
+
+[ForegroundFaint]
+Color=195, 180, 173
+
+[ForegroundIntense]
+Color=223, 203, 194
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=pilgrim-brown
+Opacity=1
+Wallpaper=

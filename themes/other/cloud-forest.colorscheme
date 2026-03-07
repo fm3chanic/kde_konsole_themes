@@ -1,0 +1,96 @@
+[Background]
+Color=57, 71, 43
+
+[BackgroundFaint]
+Color=57, 71, 43
+
+[BackgroundIntense]
+Color=95, 120, 120
+
+[Color0]
+Color=57, 71, 43
+
+[Color0Faint]
+Color=57, 71, 43
+
+[Color0Intense]
+Color=95, 120, 120
+
+[Color1]
+Color=217, 140, 172
+
+[Color1Faint]
+Color=217, 140, 172
+
+[Color1Intense]
+Color=217, 140, 172
+
+[Color2]
+Color=178, 224, 131
+
+[Color2Faint]
+Color=178, 224, 131
+
+[Color2Intense]
+Color=178, 224, 131
+
+[Color3]
+Color=224, 201, 131
+
+[Color3Faint]
+Color=224, 201, 131
+
+[Color3Intense]
+Color=224, 201, 131
+
+[Color4]
+Color=131, 208, 224
+
+[Color4Faint]
+Color=131, 208, 224
+
+[Color4Intense]
+Color=131, 208, 224
+
+[Color5]
+Color=193, 140, 217
+
+[Color5Faint]
+Color=193, 140, 217
+
+[Color5Intense]
+Color=193, 140, 217
+
+[Color6]
+Color=131, 224, 170
+
+[Color6Faint]
+Color=131, 224, 170
+
+[Color6Intense]
+Color=131, 224, 170
+
+[Color7]
+Color=162, 207, 207
+
+[Color7Faint]
+Color=162, 207, 207
+
+[Color7Intense]
+Color=162, 207, 207
+
+[Foreground]
+Color=176, 193, 193
+
+[ForegroundFaint]
+Color=176, 193, 193
+
+[ForegroundIntense]
+Color=194, 224, 224
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=cloud-forest
+Opacity=1
+Wallpaper=
