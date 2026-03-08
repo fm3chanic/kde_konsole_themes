@@ -5,7 +5,7 @@ Color=173, 163, 132
 Color=173, 163, 132
 
 [BackgroundIntense]
-Color=155, 172, 188
+Color=188, 179, 154
 
 [Color0]
 Color=173, 163, 132
@@ -14,25 +14,25 @@ Color=173, 163, 132
 Color=173, 163, 132
 
 [Color0Intense]
-Color=155, 172, 188
+Color=188, 179, 154
 
 [Color1]
-Color=134, 45, 74
+Color=125, 54, 78
 
 [Color1Faint]
-Color=134, 45, 74
+Color=125, 54, 78
 
 [Color1Intense]
-Color=134, 45, 74
+Color=125, 54, 78
 
 [Color2]
-Color=45, 134, 74
+Color=54, 125, 78
 
 [Color2Faint]
-Color=45, 134, 74
+Color=54, 125, 78
 
 [Color2Intense]
-Color=45, 134, 74
+Color=54, 125, 78
 
 [Color3]
 Color=153, 111, 51
@@ -53,13 +53,13 @@ Color=45, 67, 134
 Color=45, 67, 134
 
 [Color5]
-Color=134, 45, 112
+Color=125, 54, 107
 
 [Color5Faint]
-Color=134, 45, 112
+Color=125, 54, 107
 
 [Color5Intense]
-Color=134, 45, 112
+Color=125, 54, 107
 
 [Color6]
 Color=45, 134, 132
