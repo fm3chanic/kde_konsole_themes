@@ -1,0 +1,96 @@
+[Background]
+Color=57, 66, 44
+
+[BackgroundFaint]
+Color=57, 66, 44
+
+[BackgroundIntense]
+Color=139, 128, 75
+
+[Color0]
+Color=57, 66, 44
+
+[Color0Faint]
+Color=57, 66, 44
+
+[Color0Intense]
+Color=139, 128, 75
+
+[Color1]
+Color=204, 102, 102
+
+[Color1Faint]
+Color=204, 102, 102
+
+[Color1Intense]
+Color=204, 102, 102
+
+[Color2]
+Color=102, 204, 112
+
+[Color2Faint]
+Color=102, 204, 112
+
+[Color2Intense]
+Color=102, 204, 112
+
+[Color3]
+Color=204, 161, 102
+
+[Color3Faint]
+Color=204, 161, 102
+
+[Color3Intense]
+Color=204, 161, 102
+
+[Color4]
+Color=102, 110, 204
+
+[Color4Faint]
+Color=102, 110, 204
+
+[Color4Intense]
+Color=102, 110, 204
+
+[Color5]
+Color=204, 102, 161
+
+[Color5Faint]
+Color=204, 102, 161
+
+[Color5Intense]
+Color=204, 102, 161
+
+[Color6]
+Color=102, 177, 204
+
+[Color6Faint]
+Color=102, 177, 204
+
+[Color6Intense]
+Color=102, 177, 204
+
+[Color7]
+Color=219, 208, 149
+
+[Color7Faint]
+Color=219, 208, 149
+
+[Color7Intense]
+Color=219, 208, 149
+
+[Foreground]
+Color=205, 198, 163
+
+[ForegroundFaint]
+Color=205, 198, 163
+
+[ForegroundIntense]
+Color=232, 226, 189
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=astra-militarum-soldier
+Opacity=1
+Wallpaper=

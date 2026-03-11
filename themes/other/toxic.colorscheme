@@ -1,0 +1,96 @@
+[Background]
+Color=22, 53, 37
+
+[BackgroundFaint]
+Color=22, 53, 37
+
+[BackgroundIntense]
+Color=53, 125, 89
+
+[Color0]
+Color=22, 53, 37
+
+[Color0Faint]
+Color=22, 53, 37
+
+[Color0Intense]
+Color=53, 125, 89
+
+[Color1]
+Color=195, 97, 122
+
+[Color1Faint]
+Color=195, 97, 122
+
+[Color1Intense]
+Color=195, 97, 122
+
+[Color2]
+Color=136, 210, 121
+
+[Color2Faint]
+Color=136, 210, 121
+
+[Color2Intense]
+Color=136, 210, 121
+
+[Color3]
+Color=201, 201, 130
+
+[Color3Faint]
+Color=201, 201, 130
+
+[Color3Intense]
+Color=201, 201, 130
+
+[Color4]
+Color=97, 144, 209
+
+[Color4Faint]
+Color=97, 144, 209
+
+[Color4Intense]
+Color=97, 144, 209
+
+[Color5]
+Color=178, 130, 201
+
+[Color5Faint]
+Color=178, 130, 201
+
+[Color5Intense]
+Color=178, 130, 201
+
+[Color6]
+Color=91, 200, 184
+
+[Color6Faint]
+Color=91, 200, 184
+
+[Color6Intense]
+Color=91, 200, 184
+
+[Color7]
+Color=164, 216, 186
+
+[Color7Faint]
+Color=164, 216, 186
+
+[Color7Intense]
+Color=164, 216, 186
+
+[Foreground]
+Color=131, 202, 167
+
+[ForegroundFaint]
+Color=131, 202, 167
+
+[ForegroundIntense]
+Color=200, 231, 216
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=toxic
+Opacity=1
+Wallpaper=

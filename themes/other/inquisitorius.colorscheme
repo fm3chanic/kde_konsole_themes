@@ -1,0 +1,96 @@
+[Background]
+Color=73, 39, 48
+
+[BackgroundFaint]
+Color=73, 39, 48
+
+[BackgroundIntense]
+Color=128, 114, 86
+
+[Color0]
+Color=73, 39, 48
+
+[Color0Faint]
+Color=73, 39, 48
+
+[Color0Intense]
+Color=128, 114, 86
+
+[Color1]
+Color=194, 113, 161
+
+[Color1Faint]
+Color=194, 113, 161
+
+[Color1Intense]
+Color=194, 113, 161
+
+[Color2]
+Color=113, 194, 147
+
+[Color2Faint]
+Color=113, 194, 147
+
+[Color2Intense]
+Color=113, 194, 147
+
+[Color3]
+Color=194, 147, 113
+
+[Color3Faint]
+Color=194, 147, 113
+
+[Color3Intense]
+Color=194, 147, 113
+
+[Color4]
+Color=113, 146, 194
+
+[Color4Faint]
+Color=113, 146, 194
+
+[Color4Intense]
+Color=113, 146, 194
+
+[Color5]
+Color=166, 113, 194
+
+[Color5Faint]
+Color=166, 113, 194
+
+[Color5Intense]
+Color=166, 113, 194
+
+[Color6]
+Color=113, 194, 194
+
+[Color6Faint]
+Color=113, 194, 194
+
+[Color6Intense]
+Color=113, 194, 194
+
+[Color7]
+Color=212, 193, 154
+
+[Color7Faint]
+Color=212, 193, 154
+
+[Color7Intense]
+Color=212, 193, 154
+
+[Foreground]
+Color=197, 188, 169
+
+[ForegroundFaint]
+Color=197, 188, 169
+
+[ForegroundIntense]
+Color=228, 215, 190
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=inquisitorius
+Opacity=1
+Wallpaper=
