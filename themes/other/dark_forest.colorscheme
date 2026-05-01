@@ -1,0 +1,96 @@
+[Background]
+Color=42, 45, 42
+
+[BackgroundFaint]
+Color=42, 45, 42
+
+[BackgroundIntense]
+Color=78, 84, 78
+
+[Color0]
+Color=42, 45, 42
+
+[Color0Faint]
+Color=42, 45, 42
+
+[Color0Intense]
+Color=78, 84, 78
+
+[Color1]
+Color=174, 105, 130
+
+[Color1Faint]
+Color=174, 105, 130
+
+[Color1Intense]
+Color=174, 105, 130
+
+[Color2]
+Color=156, 180, 100
+
+[Color2Faint]
+Color=156, 180, 100
+
+[Color2Intense]
+Color=156, 180, 100
+
+[Color3]
+Color=191, 173, 88
+
+[Color3Faint]
+Color=191, 173, 88
+
+[Color3Intense]
+Color=191, 173, 88
+
+[Color4]
+Color=100, 166, 180
+
+[Color4Faint]
+Color=100, 166, 180
+
+[Color4Intense]
+Color=100, 166, 180
+
+[Color5]
+Color=162, 105, 174
+
+[Color5Faint]
+Color=162, 105, 174
+
+[Color5Intense]
+Color=162, 105, 174
+
+[Color6]
+Color=100, 180, 137
+
+[Color6Faint]
+Color=100, 180, 137
+
+[Color6Intense]
+Color=100, 180, 137
+
+[Color7]
+Color=168, 171, 149
+
+[Color7Faint]
+Color=168, 171, 149
+
+[Color7Intense]
+Color=168, 171, 149
+
+[Foreground]
+Color=134, 152, 134
+
+[ForegroundFaint]
+Color=134, 152, 134
+
+[ForegroundIntense]
+Color=169, 188, 169
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=dark_forest
+Opacity=1
+Wallpaper=

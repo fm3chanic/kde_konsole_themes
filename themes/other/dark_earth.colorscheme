@@ -1,0 +1,96 @@
+[Background]
+Color=44, 40, 38
+
+[BackgroundFaint]
+Color=44, 40, 38
+
+[BackgroundIntense]
+Color=84, 77, 73
+
+[Color0]
+Color=44, 40, 38
+
+[Color0Faint]
+Color=44, 40, 38
+
+[Color0Intense]
+Color=84, 77, 73
+
+[Color1]
+Color=174, 105, 130
+
+[Color1Faint]
+Color=174, 105, 130
+
+[Color1Intense]
+Color=174, 105, 130
+
+[Color2]
+Color=156, 180, 100
+
+[Color2Faint]
+Color=156, 180, 100
+
+[Color2Intense]
+Color=156, 180, 100
+
+[Color3]
+Color=191, 173, 88
+
+[Color3Faint]
+Color=191, 173, 88
+
+[Color3Intense]
+Color=191, 173, 88
+
+[Color4]
+Color=100, 166, 180
+
+[Color4Faint]
+Color=100, 166, 180
+
+[Color4Intense]
+Color=100, 166, 180
+
+[Color5]
+Color=162, 105, 174
+
+[Color5Faint]
+Color=162, 105, 174
+
+[Color5Intense]
+Color=162, 105, 174
+
+[Color6]
+Color=100, 180, 137
+
+[Color6Faint]
+Color=100, 180, 137
+
+[Color6Intense]
+Color=100, 180, 137
+
+[Color7]
+Color=142, 122, 76
+
+[Color7Faint]
+Color=142, 122, 76
+
+[Color7Intense]
+Color=142, 122, 76
+
+[Foreground]
+Color=152, 117, 93
+
+[ForegroundFaint]
+Color=152, 117, 93
+
+[ForegroundIntense]
+Color=159, 137, 85
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=dark_earth
+Opacity=1
+Wallpaper=
