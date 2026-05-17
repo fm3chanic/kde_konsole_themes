@@ -5,7 +5,7 @@ Color=27, 24, 24
 Color=27, 24, 24
 
 [BackgroundIntense]
-Color=71, 107, 95
+Color=79, 107, 70
 
 [Color0]
 Color=27, 24, 24
@@ -14,7 +14,7 @@ Color=27, 24, 24
 Color=27, 24, 24
 
 [Color0Intense]
-Color=71, 107, 95
+Color=79, 107, 70
 
 [Color1]
 Color=197, 135, 156
@@ -71,26 +71,26 @@ Color=147, 209, 209
 Color=147, 209, 209
 
 [Color7]
-Color=147, 209, 189
+Color=163, 209, 147
 
 [Color7Faint]
-Color=147, 209, 189
+Color=163, 209, 147
 
 [Color7Intense]
-Color=147, 209, 189
+Color=163, 209, 147
 
 [Foreground]
-Color=117, 163, 148
+Color=128, 163, 117
 
 [ForegroundFaint]
-Color=117, 163, 148
+Color=128, 163, 117
 
 [ForegroundIntense]
-Color=183, 224, 211
+Color=193, 224, 183
 
 [General]
 Blur=false
 ColorRandomization=false
-Description=terminal
+Description=terminalv2
 Opacity=1
 Wallpaper=
