@@ -1,0 +1,96 @@
+[Background]
+Color=30, 22, 20
+
+[BackgroundFaint]
+Color=30, 22, 20
+
+[BackgroundIntense]
+Color=82, 105, 123
+
+[Color0]
+Color=30, 22, 20
+
+[Color0Faint]
+Color=30, 22, 20
+
+[Color0Intense]
+Color=82, 105, 123
+
+[Color1]
+Color=203, 84, 77
+
+[Color1Faint]
+Color=203, 84, 77
+
+[Color1Intense]
+Color=203, 84, 77
+
+[Color2]
+Color=160, 198, 107
+
+[Color2Faint]
+Color=160, 198, 107
+
+[Color2Intense]
+Color=160, 198, 107
+
+[Color3]
+Color=234, 167, 71
+
+[Color3Faint]
+Color=234, 167, 71
+
+[Color3Intense]
+Color=234, 167, 71
+
+[Color4]
+Color=48, 136, 186
+
+[Color4Faint]
+Color=48, 136, 186
+
+[Color4Intense]
+Color=48, 136, 186
+
+[Color5]
+Color=138, 99, 179
+
+[Color5Faint]
+Color=138, 99, 179
+
+[Color5Intense]
+Color=138, 99, 179
+
+[Color6]
+Color=111, 193, 159
+
+[Color6Faint]
+Color=111, 193, 159
+
+[Color6Intense]
+Color=111, 193, 159
+
+[Color7]
+Color=212, 160, 87
+
+[Color7Faint]
+Color=212, 160, 87
+
+[Color7Intense]
+Color=212, 160, 87
+
+[Foreground]
+Color=208, 135, 69
+
+[ForegroundFaint]
+Color=208, 135, 69
+
+[ForegroundIntense]
+Color=240, 190, 119
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=torchlight-torches-of-winterwell
+Opacity=1
+Wallpaper=

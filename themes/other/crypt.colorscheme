@@ -1,0 +1,96 @@
+[Background]
+Color=59, 51, 60
+
+[BackgroundFaint]
+Color=59, 51, 60
+
+[BackgroundIntense]
+Color=100, 119, 94
+
+[Color0]
+Color=59, 51, 60
+
+[Color0Faint]
+Color=59, 51, 60
+
+[Color0Intense]
+Color=100, 119, 94
+
+[Color1]
+Color=193, 112, 123
+
+[Color1Faint]
+Color=193, 112, 123
+
+[Color1Intense]
+Color=193, 112, 123
+
+[Color2]
+Color=150, 196, 134
+
+[Color2Faint]
+Color=150, 196, 134
+
+[Color2Intense]
+Color=150, 196, 134
+
+[Color3]
+Color=214, 152, 91
+
+[Color3Faint]
+Color=214, 152, 91
+
+[Color3Intense]
+Color=214, 152, 91
+
+[Color4]
+Color=112, 163, 193
+
+[Color4Faint]
+Color=112, 163, 193
+
+[Color4Intense]
+Color=112, 163, 193
+
+[Color5]
+Color=179, 117, 188
+
+[Color5Faint]
+Color=179, 117, 188
+
+[Color5Intense]
+Color=179, 117, 188
+
+[Color6]
+Color=134, 196, 170
+
+[Color6Faint]
+Color=134, 196, 170
+
+[Color6Intense]
+Color=134, 196, 170
+
+[Color7]
+Color=155, 224, 132
+
+[Color7Faint]
+Color=155, 224, 132
+
+[Color7Intense]
+Color=155, 224, 132
+
+[Foreground]
+Color=137, 183, 122
+
+[ForegroundFaint]
+Color=137, 183, 122
+
+[ForegroundIntense]
+Color=182, 244, 162
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=crypt
+Opacity=1
+Wallpaper=
