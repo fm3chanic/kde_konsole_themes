@@ -5,7 +5,7 @@ Color=41, 35, 33
 Color=41, 35, 33
 
 [BackgroundIntense]
-Color=82, 105, 123
+Color=82, 123, 109
 
 [Color0]
 Color=41, 35, 33
@@ -14,7 +14,7 @@ Color=41, 35, 33
 Color=41, 35, 33
 
 [Color0Intense]
-Color=82, 105, 123
+Color=82, 123, 109
 
 [Color1]
 Color=204, 107, 101
@@ -71,26 +71,26 @@ Color=134, 196, 171
 Color=134, 196, 171
 
 [Color7]
-Color=212, 160, 87
+Color=179, 193, 112
 
 [Color7Faint]
-Color=212, 160, 87
+Color=179, 193, 112
 
 [Color7Intense]
-Color=212, 160, 87
+Color=179, 193, 112
 
 [Foreground]
-Color=208, 135, 69
+Color=163, 175, 107
 
 [ForegroundFaint]
-Color=208, 135, 69
+Color=163, 175, 107
 
 [ForegroundIntense]
-Color=240, 190, 119
+Color=198, 234, 148
 
 [General]
 Blur=false
 ColorRandomization=false
-Description=torchlight-torches-of-winterwell
+Description=torchlight-temple-steppes
 Opacity=1
 Wallpaper=

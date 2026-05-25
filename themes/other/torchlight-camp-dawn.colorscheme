@@ -1,20 +1,20 @@
 [Background]
-Color=41, 35, 33
+Color=45, 33, 30
 
 [BackgroundFaint]
-Color=41, 35, 33
+Color=45, 33, 30
 
 [BackgroundIntense]
-Color=82, 105, 123
+Color=106, 54, 44
 
 [Color0]
-Color=41, 35, 33
+Color=45, 33, 30
 
 [Color0Faint]
-Color=41, 35, 33
+Color=45, 33, 30
 
 [Color0Intense]
-Color=82, 105, 123
+Color=106, 54, 44
 
 [Color1]
 Color=204, 107, 101
@@ -91,6 +91,6 @@ Color=240, 190, 119
 [General]
 Blur=false
 ColorRandomization=false
-Description=torchlight-torches-of-winterwell
+Description=torchlight-camp-dawn
 Opacity=1
 Wallpaper=
