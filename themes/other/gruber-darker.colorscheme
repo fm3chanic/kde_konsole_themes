@@ -71,13 +71,13 @@ Color=150, 166, 200
 Color=150, 166, 200
 
 [Color7]
-Color=197, 197, 211
+Color=128, 128, 128
 
 [Color7Faint]
-Color=197, 197, 211
+Color=128, 128, 128
 
 [Color7Intense]
-Color=197, 197, 211
+Color=128, 128, 128
 
 [Foreground]
 Color=168, 168, 189
