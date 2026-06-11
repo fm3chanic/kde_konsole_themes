@@ -1,0 +1,96 @@
+[Background]
+Color=24, 19, 26
+
+[BackgroundFaint]
+Color=24, 19, 26
+
+[BackgroundIntense]
+Color=98, 110, 113
+
+[Color0]
+Color=24, 19, 26
+
+[Color0Faint]
+Color=24, 19, 26
+
+[Color0Intense]
+Color=98, 110, 113
+
+[Color1]
+Color=238, 81, 72
+
+[Color1Faint]
+Color=238, 81, 72
+
+[Color1Intense]
+Color=238, 81, 72
+
+[Color2]
+Color=150, 177, 111
+
+[Color2Faint]
+Color=150, 177, 111
+
+[Color2Intense]
+Color=150, 177, 111
+
+[Color3]
+Color=252, 215, 89
+
+[Color3Faint]
+Color=252, 215, 89
+
+[Color3Intense]
+Color=252, 215, 89
+
+[Color4]
+Color=65, 98, 220
+
+[Color4Faint]
+Color=65, 98, 220
+
+[Color4Intense]
+Color=65, 98, 220
+
+[Color5]
+Color=157, 80, 209
+
+[Color5Faint]
+Color=157, 80, 209
+
+[Color5Intense]
+Color=157, 80, 209
+
+[Color6]
+Color=65, 190, 216
+
+[Color6Faint]
+Color=65, 190, 216
+
+[Color6Intense]
+Color=65, 190, 216
+
+[Color7]
+Color=181, 197, 200
+
+[Color7Faint]
+Color=181, 197, 200
+
+[Color7Intense]
+Color=181, 197, 200
+
+[Foreground]
+Color=160, 170, 173
+
+[ForegroundFaint]
+Color=160, 170, 173
+
+[ForegroundIntense]
+Color=205, 223, 227
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=sputnik
+Opacity=1
+Wallpaper=
