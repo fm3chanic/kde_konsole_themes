@@ -1,0 +1,96 @@
+[Background]
+Color=39, 44, 48
+
+[BackgroundFaint]
+Color=39, 44, 48
+
+[BackgroundIntense]
+Color=112, 83, 79
+
+[Color0]
+Color=39, 44, 48
+
+[Color0Faint]
+Color=39, 44, 48
+
+[Color0Intense]
+Color=112, 83, 79
+
+[Color1]
+Color=210, 71, 83
+
+[Color1Faint]
+Color=210, 71, 83
+
+[Color1Intense]
+Color=210, 71, 83
+
+[Color2]
+Color=79, 202, 104
+
+[Color2Faint]
+Color=79, 202, 104
+
+[Color2Intense]
+Color=79, 202, 104
+
+[Color3]
+Color=209, 174, 72
+
+[Color3Faint]
+Color=209, 174, 72
+
+[Color3Intense]
+Color=209, 174, 72
+
+[Color4]
+Color=72, 72, 209
+
+[Color4Faint]
+Color=72, 72, 209
+
+[Color4Intense]
+Color=72, 72, 209
+
+[Color5]
+Color=173, 83, 198
+
+[Color5Faint]
+Color=173, 83, 198
+
+[Color5Intense]
+Color=173, 83, 198
+
+[Color6]
+Color=83, 196, 198
+
+[Color6Faint]
+Color=83, 196, 198
+
+[Color6Intense]
+Color=83, 196, 198
+
+[Color7]
+Color=155, 207, 161
+
+[Color7Faint]
+Color=155, 207, 161
+
+[Color7Intense]
+Color=155, 207, 161
+
+[Foreground]
+Color=136, 176, 141
+
+[ForegroundFaint]
+Color=136, 176, 141
+
+[ForegroundIntense]
+Color=183, 231, 188
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=mining-and-crafting
+Opacity=1
+Wallpaper=
