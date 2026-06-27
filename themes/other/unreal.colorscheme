@@ -26,13 +26,13 @@ Color=196, 77, 105
 Color=196, 77, 105
 
 [Color2]
-Color=107, 151, 82
+Color=150, 197, 82
 
 [Color2Faint]
-Color=107, 151, 82
+Color=150, 197, 82
 
 [Color2Intense]
-Color=107, 151, 82
+Color=150, 197, 82
 
 [Color3]
 Color=228, 130, 105
@@ -44,31 +44,31 @@ Color=228, 130, 105
 Color=228, 130, 105
 
 [Color4]
-Color=46, 104, 186
+Color=82, 130, 197
 
 [Color4Faint]
-Color=46, 104, 186
+Color=82, 130, 197
 
 [Color4Intense]
-Color=46, 104, 186
+Color=82, 130, 197
 
 [Color5]
-Color=210, 109, 227
+Color=185, 77, 203
 
 [Color5Faint]
-Color=210, 109, 227
+Color=185, 77, 203
 
 [Color5Intense]
-Color=210, 109, 227
+Color=185, 77, 203
 
 [Color6]
-Color=162, 224, 141
+Color=82, 197, 140
 
 [Color6Faint]
-Color=162, 224, 141
+Color=82, 197, 140
 
 [Color6Intense]
-Color=162, 224, 141
+Color=82, 197, 140
 
 [Color7]
 Color=135, 228, 247
