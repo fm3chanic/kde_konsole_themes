@@ -17,58 +17,58 @@ Color=31, 32, 45
 Color=116, 106, 62
 
 [Color1]
-Color=219, 139, 112
+Color=204, 101, 117
 
 [Color1Faint]
-Color=219, 139, 112
+Color=204, 101, 117
 
 [Color1Intense]
-Color=219, 139, 112
+Color=204, 101, 117
 
 [Color2]
-Color=112, 219, 139
+Color=193, 194, 113
 
 [Color2Faint]
-Color=112, 219, 139
+Color=193, 194, 113
 
 [Color2Intense]
-Color=112, 219, 139
+Color=193, 194, 113
 
 [Color3]
-Color=219, 193, 112
+Color=203, 161, 101
 
 [Color3Faint]
-Color=219, 193, 112
+Color=203, 161, 101
 
 [Color3Intense]
-Color=219, 193, 112
+Color=203, 161, 101
 
 [Color4]
-Color=112, 193, 219
+Color=104, 143, 204
 
 [Color4Faint]
-Color=112, 193, 219
+Color=104, 143, 204
 
 [Color4Intense]
-Color=112, 193, 219
+Color=104, 143, 204
 
 [Color5]
-Color=143, 121, 210
+Color=176, 122, 183
 
 [Color5Faint]
-Color=143, 121, 210
+Color=176, 122, 183
 
 [Color5Intense]
-Color=143, 121, 210
+Color=176, 122, 183
 
 [Color6]
-Color=112, 219, 193
+Color=112, 194, 184
 
 [Color6Faint]
-Color=112, 219, 193
+Color=112, 194, 184
 
 [Color6Intense]
-Color=112, 219, 193
+Color=112, 194, 184
 
 [Color7]
 Color=210, 203, 172

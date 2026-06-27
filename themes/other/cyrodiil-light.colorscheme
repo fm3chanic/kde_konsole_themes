@@ -1,0 +1,96 @@
+[Background]
+Color=243, 238, 219
+
+[BackgroundFaint]
+Color=243, 238, 219
+
+[BackgroundIntense]
+Color=194, 180, 143
+
+[Color0]
+Color=243, 238, 219
+
+[Color0Faint]
+Color=243, 238, 219
+
+[Color0Intense]
+Color=194, 180, 143
+
+[Color1]
+Color=163, 41, 63
+
+[Color1Faint]
+Color=163, 41, 63
+
+[Color1Intense]
+Color=163, 41, 63
+
+[Color2]
+Color=132, 163, 41
+
+[Color2Faint]
+Color=132, 163, 41
+
+[Color2Intense]
+Color=132, 163, 41
+
+[Color3]
+Color=163, 101, 41
+
+[Color3Faint]
+Color=163, 101, 41
+
+[Color3Intense]
+Color=163, 101, 41
+
+[Color4]
+Color=41, 118, 163
+
+[Color4Faint]
+Color=41, 118, 163
+
+[Color4Intense]
+Color=41, 118, 163
+
+[Color5]
+Color=163, 41, 149
+
+[Color5Faint]
+Color=163, 41, 149
+
+[Color5Intense]
+Color=163, 41, 149
+
+[Color6]
+Color=41, 163, 127
+
+[Color6Faint]
+Color=41, 163, 127
+
+[Color6Intense]
+Color=41, 163, 127
+
+[Color7]
+Color=82, 70, 58
+
+[Color7Faint]
+Color=82, 70, 58
+
+[Color7Intense]
+Color=82, 70, 58
+
+[Foreground]
+Color=102, 92, 88
+
+[ForegroundFaint]
+Color=102, 92, 88
+
+[ForegroundIntense]
+Color=63, 41, 39
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=cyrodiil-light
+Opacity=1
+Wallpaper=
