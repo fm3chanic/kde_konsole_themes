@@ -17,58 +17,58 @@ Color=58, 61, 52
 Color=88, 118, 126
 
 [Color1]
-Color=221, 136, 157
+Color=220, 136, 150
 
 [Color1Faint]
-Color=221, 136, 157
+Color=220, 136, 150
 
 [Color1Intense]
-Color=221, 136, 157
+Color=220, 136, 150
 
 [Color2]
-Color=140, 217, 179
+Color=147, 208, 162
 
 [Color2Faint]
-Color=140, 217, 179
+Color=147, 208, 162
 
 [Color2Intense]
-Color=140, 217, 179
+Color=147, 208, 162
 
 [Color3]
-Color=206, 220, 136
+Color=220, 213, 135
 
 [Color3Faint]
-Color=206, 220, 136
+Color=220, 213, 135
 
 [Color3Intense]
-Color=206, 220, 136
+Color=220, 213, 135
 
 [Color4]
-Color=140, 159, 217
+Color=147, 152, 208
 
 [Color4Faint]
-Color=140, 159, 217
+Color=147, 152, 208
 
 [Color4Intense]
-Color=140, 159, 217
+Color=147, 152, 208
 
 [Color5]
-Color=217, 140, 198
+Color=193, 147, 209
 
 [Color5Faint]
-Color=217, 140, 198
+Color=193, 147, 209
 
 [Color5Intense]
-Color=217, 140, 198
+Color=193, 147, 209
 
 [Color6]
-Color=140, 198, 217
+Color=147, 178, 208
 
 [Color6Faint]
-Color=140, 198, 217
+Color=147, 178, 208
 
 [Color6Intense]
-Color=140, 198, 217
+Color=147, 178, 208
 
 [Color7]
 Color=161, 197, 206
