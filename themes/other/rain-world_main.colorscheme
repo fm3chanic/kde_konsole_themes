@@ -1,0 +1,96 @@
+[Background]
+Color=40, 45, 46
+
+[BackgroundFaint]
+Color=40, 45, 46
+
+[BackgroundIntense]
+Color=98, 99, 91
+
+[Color0]
+Color=40, 45, 46
+
+[Color0Faint]
+Color=40, 45, 46
+
+[Color0Intense]
+Color=98, 99, 91
+
+[Color1]
+Color=188, 117, 140
+
+[Color1Faint]
+Color=188, 117, 140
+
+[Color1Intense]
+Color=188, 117, 140
+
+[Color2]
+Color=164, 183, 122
+
+[Color2Faint]
+Color=164, 183, 122
+
+[Color2Intense]
+Color=164, 183, 122
+
+[Color3]
+Color=224, 190, 107
+
+[Color3Faint]
+Color=224, 190, 107
+
+[Color3Intense]
+Color=224, 190, 107
+
+[Color4]
+Color=126, 133, 204
+
+[Color4Faint]
+Color=126, 133, 204
+
+[Color4Intense]
+Color=126, 133, 204
+
+[Color5]
+Color=186, 119, 186
+
+[Color5Faint]
+Color=186, 119, 186
+
+[Color5Intense]
+Color=186, 119, 186
+
+[Color6]
+Color=123, 184, 183
+
+[Color6Faint]
+Color=123, 184, 183
+
+[Color6Intense]
+Color=123, 184, 183
+
+[Color7]
+Color=154, 194, 207
+
+[Color7Faint]
+Color=154, 194, 207
+
+[Color7Intense]
+Color=154, 194, 207
+
+[Foreground]
+Color=132, 169, 181
+
+[ForegroundFaint]
+Color=132, 169, 181
+
+[ForegroundIntense]
+Color=185, 218, 229
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=rain-world_main
+Opacity=1
+Wallpaper=

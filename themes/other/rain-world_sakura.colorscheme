@@ -1,0 +1,96 @@
+[Background]
+Color=47, 30, 56
+
+[BackgroundFaint]
+Color=47, 30, 56
+
+[BackgroundIntense]
+Color=123, 67, 95
+
+[Color0]
+Color=47, 30, 56
+
+[Color0Faint]
+Color=47, 30, 56
+
+[Color0Intense]
+Color=123, 67, 95
+
+[Color1]
+Color=197, 120, 108
+
+[Color1Faint]
+Color=197, 120, 108
+
+[Color1Intense]
+Color=197, 120, 108
+
+[Color2]
+Color=164, 183, 122
+
+[Color2Faint]
+Color=164, 183, 122
+
+[Color2Intense]
+Color=164, 183, 122
+
+[Color3]
+Color=224, 190, 107
+
+[Color3Faint]
+Color=224, 190, 107
+
+[Color3Intense]
+Color=224, 190, 107
+
+[Color4]
+Color=126, 133, 204
+
+[Color4Faint]
+Color=126, 133, 204
+
+[Color4Intense]
+Color=126, 133, 204
+
+[Color5]
+Color=186, 119, 186
+
+[Color5Faint]
+Color=186, 119, 186
+
+[Color5Intense]
+Color=186, 119, 186
+
+[Color6]
+Color=123, 184, 183
+
+[Color6Faint]
+Color=123, 184, 183
+
+[Color6Intense]
+Color=123, 184, 183
+
+[Color7]
+Color=215, 147, 184
+
+[Color7Faint]
+Color=215, 147, 184
+
+[Color7Intense]
+Color=215, 147, 184
+
+[Foreground]
+Color=186, 127, 159
+
+[ForegroundFaint]
+Color=186, 127, 159
+
+[ForegroundIntense]
+Color=228, 183, 208
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=rain-world_sakura
+Opacity=1
+Wallpaper=

@@ -1,0 +1,96 @@
+[Background]
+Color=35, 48, 54
+
+[BackgroundFaint]
+Color=35, 48, 54
+
+[BackgroundIntense]
+Color=66, 107, 122
+
+[Color0]
+Color=35, 48, 54
+
+[Color0Faint]
+Color=35, 48, 54
+
+[Color0Intense]
+Color=66, 107, 122
+
+[Color1]
+Color=188, 117, 140
+
+[Color1Faint]
+Color=188, 117, 140
+
+[Color1Intense]
+Color=188, 117, 140
+
+[Color2]
+Color=164, 183, 122
+
+[Color2Faint]
+Color=164, 183, 122
+
+[Color2Intense]
+Color=164, 183, 122
+
+[Color3]
+Color=201, 161, 114
+
+[Color3Faint]
+Color=201, 161, 114
+
+[Color3Intense]
+Color=201, 161, 114
+
+[Color4]
+Color=108, 145, 197
+
+[Color4Faint]
+Color=108, 145, 197
+
+[Color4Intense]
+Color=108, 145, 197
+
+[Color5]
+Color=177, 105, 163
+
+[Color5Faint]
+Color=177, 105, 163
+
+[Color5Intense]
+Color=177, 105, 163
+
+[Color6]
+Color=123, 184, 183
+
+[Color6Faint]
+Color=123, 184, 183
+
+[Color6Intense]
+Color=123, 184, 183
+
+[Color7]
+Color=153, 180, 209
+
+[Color7Faint]
+Color=153, 180, 209
+
+[Color7Intense]
+Color=153, 180, 209
+
+[Foreground]
+Color=119, 155, 194
+
+[ForegroundFaint]
+Color=119, 155, 194
+
+[ForegroundIntense]
+Color=189, 206, 225
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=rain-world_ocean
+Opacity=1
+Wallpaper=
