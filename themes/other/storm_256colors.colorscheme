@@ -1,0 +1,96 @@
+[Background]
+Color=38, 38, 38
+
+[BackgroundFaint]
+Color=38, 38, 38
+
+[BackgroundIntense]
+Color=68, 68, 68
+
+[Color0]
+Color=38, 38, 38
+
+[Color0Faint]
+Color=38, 38, 38
+
+[Color0Intense]
+Color=68, 68, 68
+
+[Color1]
+Color=175, 95, 95
+
+[Color1Faint]
+Color=175, 95, 95
+
+[Color1Intense]
+Color=175, 95, 95
+
+[Color2]
+Color=95, 175, 95
+
+[Color2Faint]
+Color=95, 175, 95
+
+[Color2Intense]
+Color=95, 175, 95
+
+[Color3]
+Color=175, 175, 95
+
+[Color3Faint]
+Color=175, 175, 95
+
+[Color3Intense]
+Color=175, 175, 95
+
+[Color4]
+Color=95, 95, 175
+
+[Color4Faint]
+Color=95, 95, 175
+
+[Color4Intense]
+Color=95, 95, 175
+
+[Color5]
+Color=135, 95, 175
+
+[Color5Faint]
+Color=135, 95, 175
+
+[Color5Intense]
+Color=135, 95, 175
+
+[Color6]
+Color=95, 175, 175
+
+[Color6Faint]
+Color=95, 175, 175
+
+[Color6Intense]
+Color=95, 175, 175
+
+[Color7]
+Color=175, 215, 215
+
+[Color7Faint]
+Color=175, 215, 215
+
+[Color7Intense]
+Color=175, 215, 215
+
+[Foreground]
+Color=135, 175, 175
+
+[ForegroundFaint]
+Color=135, 175, 175
+
+[ForegroundIntense]
+Color=215, 255, 255
+
+[General]
+Blur=false
+ColorRandomization=false
+Description=storm_256colors
+Opacity=1
+Wallpaper=
