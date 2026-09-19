@@ -1,5 +1,8 @@
 ## fm3chanic Themes for KDE Konsole
 
+> [!IMPORTANT]
+> This repository was archived and won't receive updates any longer.
+
 This repository contains all color themes for the Konsole terminal emulator I've created so far.<br> 
 Konsole is the main terminal emulator of the popular KDE desktop environment for Linux and integrated in Kate. The same themes are also available for Kate. You can find them [here](https://github.com/fm3chanic/ksyntaxhighlighting_themes).
 
